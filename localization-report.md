@@ -1419,11 +1419,11 @@
 * Handoff File: [527b6cd19f5b402286dea94e5aa3070b784bfc92.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/527b6cd19f5b402286dea94e5aa3070b784bfc92.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='fb6e1483cda608e8dc4b260c469ece9e0c0ef3b136'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\alternate-recovery.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-alternate-dpm-server/alternate-recovery.png)
@@ -1444,11 +1444,11 @@
 * Handoff File: [8c6d04b560fa6cbbeb07a0f94cc2eba7100cdfde.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8c6d04b560fa6cbbeb07a0f94cc2eba7100cdfde.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='43c35dd08b64a98c8a54e210fc82ef5b27c5c65f38'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\clear-external-dpm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/clear-external-dpm.png)
@@ -1457,11 +1457,11 @@
 * Handoff File: [43c35dd08b64a98c8a54e210fc82ef5b27c5c65f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/43c35dd08b64a98c8a54e210fc82ef5b27c5c65f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='3f1009fea8771649f902b42b7b0a45bf1a52299e39'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\external-dpm-azurebackupagentversion.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/external-dpm-azurebackupagentversion.png)
@@ -1470,11 +1470,11 @@
 * Handoff File: [3f1009fea8771649f902b42b7b0a45bf1a52299e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3f1009fea8771649f902b42b7b0a45bf1a52299e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='7052b90f5eac57a5f2b65d2ef774c202fc2cc56240'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\external-dpm-credentials.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/external-dpm-credentials.png)
@@ -1483,11 +1483,11 @@
 * Handoff File: [7052b90f5eac57a5f2b65d2ef774c202fc2cc562.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7052b90f5eac57a5f2b65d2ef774c202fc2cc562.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='a5c3a459c69d9973398b34c0977b8919bdee3f9b41'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\external-dpm-recovery-alternate-location.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/external-dpm-recovery-alternate-location.png)
@@ -1496,11 +1496,11 @@
 * Handoff File: [a5c3a459c69d9973398b34c0977b8919bdee3f9b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/a5c3a459c69d9973398b34c0977b8919bdee3f9b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='c45eae731982ec60a4330f34b2c5f8d46a074bb242'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\external-dpm-recovery-notifications.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/external-dpm-recovery-notifications.png)
@@ -1509,11 +1509,11 @@
 * Handoff File: [c45eae731982ec60a4330f34b2c5f8d46a074bb2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c45eae731982ec60a4330f34b2c5f8d46a074bb2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='6badb8fe9afcd5a5e499d451ca679151cdbf730943'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\external-dpm-recovery-options-summary.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/external-dpm-recovery-options-summary.png)
@@ -1522,11 +1522,11 @@
 * Handoff File: [6badb8fe9afcd5a5e499d451ca679151cdbf7309.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6badb8fe9afcd5a5e499d451ca679151cdbf7309.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='ab462b4c3946fe2293222dcc7fa88daa2070240c45'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\external-dpm-recoverypoint.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/external-dpm-recoverypoint.png)
@@ -1535,11 +1535,11 @@
 * Handoff File: [ab462b4c3946fe2293222dcc7fa88daa2070240c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ab462b4c3946fe2293222dcc7fa88daa2070240c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='1363d55cc8d415e83833b5870226324bb483e45f44'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\external-dpm-recovery-summary.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/external-dpm-recovery-summary.png)
@@ -1548,11 +1548,11 @@
 * Handoff File: [1363d55cc8d415e83833b5870226324bb483e45f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/1363d55cc8d415e83833b5870226324bb483e45f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='6db05a0d3d3ec61ae8d392716f629370476e82de46'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\monitoring-recovery.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/monitoring-recovery.png)
@@ -1561,11 +1561,11 @@
 * Handoff File: [6db05a0d3d3ec61ae8d392716f629370476e82de.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6db05a0d3d3ec61ae8d392716f629370476e82de.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='1533f73f7bef8f311f7fee8f939e80cf7b587d8d47'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\recover.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-alternate-dpm-server/recover.png)
@@ -1574,11 +1574,11 @@
 * Handoff File: [1533f73f7bef8f311f7fee8f939e80cf7b587d8d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/1533f73f7bef8f311f7fee8f939e80cf7b587d8d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-alternate-dpm-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='e6dbf49f71d17d37ae30a4c74afc5e6aee61492148'></a> Source: [Acom\articles\backup\media\backup-azure-backup-cloud-as-tape\dailybackupschedule.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-cloud-as-tape/dailybackupschedule.png)
@@ -1587,11 +1587,11 @@
 * Handoff File: [e6dbf49f71d17d37ae30a4c74afc5e6aee614921.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e6dbf49f71d17d37ae30a4c74afc5e6aee614921.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * [Back to Top](#report-top)
 
 ##### <a name='adcddc11a348fa4d0cd75dad1dec48e2e9e2f90749'></a> Source: [Acom\articles\backup\media\backup-azure-backup-cloud-as-tape\modify.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-cloud-as-tape/modify.png)
@@ -1600,11 +1600,11 @@
 * Handoff File: [adcddc11a348fa4d0cd75dad1dec48e2e9e2f907.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/adcddc11a348fa4d0cd75dad1dec48e2e9e2f907.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * [Back to Top](#report-top)
 
 ##### <a name='59bd394b9840f8ee1676676a0d43cf7bab68c92450'></a> Source: [Acom\articles\backup\media\backup-azure-backup-cloud-as-tape\retentionpolicy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-cloud-as-tape/retentionpolicy.png)
@@ -1613,11 +1613,11 @@
 * Handoff File: [59bd394b9840f8ee1676676a0d43cf7bab68c924.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/59bd394b9840f8ee1676676a0d43cf7bab68c924.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * [Back to Top](#report-top)
 
 ##### <a name='3266a1dab583dbdb13de74808af236f0e810615151'></a> Source: [Acom\articles\backup\media\backup-azure-backup-cloud-as-tape\samplescreen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-cloud-as-tape/samplescreen.png)
@@ -1626,11 +1626,11 @@
 * Handoff File: [3266a1dab583dbdb13de74808af236f0e8106151.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3266a1dab583dbdb13de74808af236f0e8106151.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * [Back to Top](#report-top)
 
 ##### <a name='ff50517de8bf5288e7bbe80f13bbf53a6b9da93c52'></a> Source: [Acom\articles\backup\media\backup-azure-backup-cloud-as-tape\weeklybackupschedule.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-cloud-as-tape/weeklybackupschedule.png)
@@ -1639,11 +1639,11 @@
 * Handoff File: [ff50517de8bf5288e7bbe80f13bbf53a6b9da93c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ff50517de8bf5288e7bbe80f13bbf53a6b9da93c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-cloud-as-tape.md
 * [Back to Top](#report-top)
 
 ##### <a name='37dbf5db9464e99ca08de25ffaa32123e1d84c7553'></a> Source: [Acom\articles\backup\media\backup-azure-backup-exchange-server\choose-online-replication.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-exchange-server/choose-online-replication.png)
@@ -1652,11 +1652,11 @@
 * Handoff File: [37dbf5db9464e99ca08de25ffaa32123e1d84c75.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/37dbf5db9464e99ca08de25ffaa32123e1d84c75.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='4c0513a9bff58021448469e7090a13723031cf0054'></a> Source: [Acom\articles\backup\media\backup-azure-backup-exchange-server\eseutil-error.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-exchange-server/eseutil-error.png)
@@ -1665,11 +1665,11 @@
 * Handoff File: [4c0513a9bff58021448469e7090a13723031cf00.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4c0513a9bff58021448469e7090a13723031cf00.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='68624f8b40491f1a64ed4e5ef8f0de72243bc6f455'></a> Source: [Acom\articles\backup\media\backup-azure-backup-exchange-server\select-group-members.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-exchange-server/select-group-members.png)
@@ -1678,11 +1678,11 @@
 * Handoff File: [68624f8b40491f1a64ed4e5ef8f0de72243bc6f4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/68624f8b40491f1a64ed4e5ef8f0de72243bc6f4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='f015bc6477ff6b99d0108b094285084470725a7856'></a> Source: [Acom\articles\backup\media\backup-azure-backup-exchange-server\select-recovery-type.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-exchange-server/select-recovery-type.png)
@@ -1703,11 +1703,11 @@
 * Handoff File: [bd302957d6fb7feeaf1c2a0fe38b14dabed28c99.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bd302957d6fb7feeaf1c2a0fe38b14dabed28c99.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='eb1d6ff41a9ca0129606137c35c3450d86d9820d58'></a> Source: [Acom\articles\backup\media\backup-azure-backup-exchange-server\specify-online-protection-data.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-exchange-server/specify-online-protection-data.png)
@@ -1716,11 +1716,11 @@
 * Handoff File: [eb1d6ff41a9ca0129606137c35c3450d86d9820d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/eb1d6ff41a9ca0129606137c35c3450d86d9820d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='721d0e53200cd30b5fdf6d20b0f9298ec3846f5a59'></a> Source: [Acom\articles\backup\media\backup-azure-backup-exchange-server\specify-online-retention-policy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-exchange-server/specify-online-retention-policy.png)
@@ -1729,11 +1729,11 @@
 * Handoff File: [721d0e53200cd30b5fdf6d20b0f9298ec3846f5a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/721d0e53200cd30b5fdf6d20b0f9298ec3846f5a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-exchange-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='8b9bd3ba7cebf9f86ce6478506865ad9765c69ff60'></a> Source: [Acom\articles\backup\media\backup-azure-backup-faq\RetentionScreen1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-faq/RetentionScreen1.png)
@@ -1754,11 +1754,11 @@
 * Handoff File: [ceb72014d3e108d2d426afa31a8125fa982cc911.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/ceb72014d3e108d2d426afa31a8125fa982cc911.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-faq.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-faq.md
 * [Back to Top](#report-top)
 
 ##### <a name='b8f455532021e08f057799c212e97bb06685390062'></a> Source: [Acom\articles\backup\media\backup-azure-backup-faq\Throttle-dialog.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-faq/Throttle-dialog.png)
@@ -1767,11 +1767,11 @@
 * Handoff File: [b8f455532021e08f057799c212e97bb066853900.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b8f455532021e08f057799c212e97bb066853900.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='80b37ce02db613fdf85ee935278e3260b768939163'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\azureportal.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/azureportal.png)
@@ -1780,11 +1780,11 @@
 * Handoff File: [80b37ce02db613fdf85ee935278e3260b7689391.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/80b37ce02db613fdf85ee935278e3260b7689391.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='a22ca2bf54f47f0d51386d2a6592a66084e6f1c164'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\backupnow.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/backupnow.png)
@@ -1793,11 +1793,11 @@
 * Handoff File: [a22ca2bf54f47f0d51386d2a6592a66084e6f1c1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/a22ca2bf54f47f0d51386d2a6592a66084e6f1c1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='8975452b5e52cf5da0730cc4b28fb9831f6c324765'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\complete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/complete.png)
@@ -1806,11 +1806,11 @@
 * Handoff File: [8975452b5e52cf5da0730cc4b28fb9831f6c3247.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8975452b5e52cf5da0730cc4b28fb9831f6c3247.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='30f7eee8254b29f85e485d22817ebd4a6705171866'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\dc.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/dc.png)
@@ -1819,11 +1819,11 @@
 * Handoff File: [30f7eee8254b29f85e485d22817ebd4a67051718.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/30f7eee8254b29f85e485d22817ebd4a67051718.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='466fbd41dd59aeaee45911f51e9f9b3df867a3d067'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\dpmbackupnow.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/dpmbackupnow.png)
@@ -1832,11 +1832,11 @@
 * Handoff File: [466fbd41dd59aeaee45911f51e9f9b3df867a3d0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/466fbd41dd59aeaee45911f51e9f9b3df867a3d0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='94a4d901fc9eaea79822b669e05c9c54034add4d68'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\dpmoffline.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/dpmoffline.png)
@@ -1845,11 +1845,11 @@
 * Handoff File: [94a4d901fc9eaea79822b669e05c9c54034add4d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/94a4d901fc9eaea79822b669e05c9c54034add4d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='a7cdaf1ffa239426bd5f4bdd9c59c2c4475cf7f169'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\importscreen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/importscreen.png)
@@ -1858,11 +1858,11 @@
 * Handoff File: [a7cdaf1ffa239426bd5f4bdd9c59c2c4475cf7f1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/a7cdaf1ffa239426bd5f4bdd9c59c2c4475cf7f1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='572084fbc2473c2fa9bbb2935279d21192a58c8370'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\opbackupnow.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/opbackupnow.png)
@@ -1871,11 +1871,11 @@
 * Handoff File: [572084fbc2473c2fa9bbb2935279d21192a58c83.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/572084fbc2473c2fa9bbb2935279d21192a58c83.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='417597e9f932cb8ad460d1aa22e60c1c2b282a8971'></a> Source: [Acom\articles\backup\media\backup-azure-backup-import-export\psoutput.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-import-export/psoutput.png)
@@ -1884,11 +1884,11 @@
 * Handoff File: [417597e9f932cb8ad460d1aa22e60c1c2b282a89.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/417597e9f932cb8ad460d1aa22e60c1c2b282a89.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-import-export.md
 * [Back to Top](#report-top)
 
 ##### <a name='355d3c962b1ae32e08a2404e6f267a3f09948d9172'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\choose-replica-creation-method.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/choose-replica-creation-method.png)
@@ -1897,11 +1897,11 @@
 * Handoff File: [355d3c962b1ae32e08a2404e6f267a3f09948d91.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/355d3c962b1ae32e08a2404e6f267a3f09948d91.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='5bcb5f899c5407b6f1330118aae4bf5d98d1696f73'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\consistency-check.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/consistency-check.png)
@@ -1910,11 +1910,11 @@
 * Handoff File: [5bcb5f899c5407b6f1330118aae4bf5d98d1696f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/5bcb5f899c5407b6f1330118aae4bf5d98d1696f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='7e02201593e78059ba9de9fc5b65d7b414686a8b74'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-new-protection-tab.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-new-protection-tab.png)
@@ -1923,11 +1923,11 @@
 * Handoff File: [7e02201593e78059ba9de9fc5b65d7b414686a8b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7e02201593e78059ba9de9fc5b65d7b414686a8b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='b6d57a182c72fda547790b285db450d169bb72f275'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection12.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection12.png)
@@ -1936,11 +1936,11 @@
 * Handoff File: [b6d57a182c72fda547790b285db450d169bb72f2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b6d57a182c72fda547790b285db450d169bb72f2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='3c0251b261186c9b097a9e78903314c2eb8333bf76'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection13.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection13.png)
@@ -1949,11 +1949,11 @@
 * Handoff File: [3c0251b261186c9b097a9e78903314c2eb8333bf.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3c0251b261186c9b097a9e78903314c2eb8333bf.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='d70f8b80280065613053ec3469050efe71c7c79177'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection14.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection14.png)
@@ -1962,11 +1962,11 @@
 * Handoff File: [d70f8b80280065613053ec3469050efe71c7c791.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d70f8b80280065613053ec3469050efe71c7c791.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='b0708af7858e7dff8ecd2a83dcde1a4214b61d0578'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection15.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection15.png)
@@ -1975,11 +1975,11 @@
 * Handoff File: [b0708af7858e7dff8ecd2a83dcde1a4214b61d05.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b0708af7858e7dff8ecd2a83dcde1a4214b61d05.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='2680080bbbc5a5e21feb1358a41922690e49dd5779'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection4.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection4.png)
@@ -1988,11 +1988,11 @@
 * Handoff File: [2680080bbbc5a5e21feb1358a41922690e49dd57.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/2680080bbbc5a5e21feb1358a41922690e49dd57.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='5616cbffd2a0294b2ae476c8bce204529a95331880'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection5.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection5.png)
@@ -2001,11 +2001,11 @@
 * Handoff File: [5616cbffd2a0294b2ae476c8bce204529a953318.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/5616cbffd2a0294b2ae476c8bce204529a953318.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='e2100bc13086dd430937abcd3db30c7e399ea6f681'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection6.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection6.png)
@@ -2014,11 +2014,11 @@
 * Handoff File: [e2100bc13086dd430937abcd3db30c7e399ea6f6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e2100bc13086dd430937abcd3db30c7e399ea6f6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='1488c8a4fb7a5685396b8865d6bdad20559e6a2482'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection7.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection7.png)
@@ -2027,11 +2027,11 @@
 * Handoff File: [1488c8a4fb7a5685396b8865d6bdad20559e6a24.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/1488c8a4fb7a5685396b8865d6bdad20559e6a24.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='e2c3576fa3b7a182933c10d0ea40734ebbaf52b883'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection8.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection8.png)
@@ -2040,11 +2040,11 @@
 * Handoff File: [e2c3576fa3b7a182933c10d0ea40734ebbaf52b8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e2c3576fa3b7a182933c10d0ea40734ebbaf52b8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='0948cfe3da0cc1f459ef00b31e420cc50088bcb684'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\dpm-sharepoint-protection9.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/dpm-sharepoint-protection9.png)
@@ -2053,11 +2053,11 @@
 * Handoff File: [0948cfe3da0cc1f459ef00b31e420cc50088bcb6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/0948cfe3da0cc1f459ef00b31e420cc50088bcb6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='97d2f69159e463e38ef8166964c4532a17a1501185'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\online-replication.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/online-replication.png)
@@ -2066,11 +2066,11 @@
 * Handoff File: [97d2f69159e463e38ef8166964c4532a17a15011.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/97d2f69159e463e38ef8166964c4532a17a15011.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='7cf3124e7da76f5debf4a24951403b9bfcc3c0f386'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\recovery-monitoring.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/recovery-monitoring.png)
@@ -2079,11 +2079,11 @@
 * Handoff File: [7cf3124e7da76f5debf4a24951403b9bfcc3c0f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7cf3124e7da76f5debf4a24951403b9bfcc3c0f3.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='7ea4a7ba81b2b3cefdaca539ca8a8a90371b966487'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\recovery-options.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/recovery-options.png)
@@ -2092,11 +2092,11 @@
 * Handoff File: [7ea4a7ba81b2b3cefdaca539ca8a8a90371b9664.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7ea4a7ba81b2b3cefdaca539ca8a8a90371b9664.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='cf8fbe7ec084be5fda54e0897e4b8af53d0c6c4f88'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\recovery-process.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/recovery-process.png)
@@ -2105,11 +2105,11 @@
 * Handoff File: [cf8fbe7ec084be5fda54e0897e4b8af53d0c6c4f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/cf8fbe7ec084be5fda54e0897e4b8af53d0c6c4f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='ed86e8fcd7a51f1f63de0766ba4172f17f318e3589'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\recovery-summary.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/recovery-summary.png)
@@ -2118,11 +2118,11 @@
 * Handoff File: [ed86e8fcd7a51f1f63de0766ba4172f17f318e35.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ed86e8fcd7a51f1f63de0766ba4172f17f318e35.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='fa24557df17f5bb0e2df81fa722db295bcdce21090'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\review-recovery-selection.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/review-recovery-selection.png)
@@ -2131,11 +2131,11 @@
 * Handoff File: [fa24557df17f5bb0e2df81fa722db295bcdce210.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fa24557df17f5bb0e2df81fa722db295bcdce210.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='584e05f792c4a85696f5ea1bd89192d2f3482f0f91'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\select-data-protection-method1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/select-data-protection-method1.png)
@@ -2144,11 +2144,11 @@
 * Handoff File: [584e05f792c4a85696f5ea1bd89192d2f3482f0f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/584e05f792c4a85696f5ea1bd89192d2f3482f0f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='303d3a64596e7b3efffea8e97075deea8c82fcdc92'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\select-group-members2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/select-group-members2.png)
@@ -2157,11 +2157,11 @@
 * Handoff File: [303d3a64596e7b3efffea8e97075deea8c82fcdc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/303d3a64596e7b3efffea8e97075deea8c82fcdc.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='531f274ed033df611ff54906da469b11b33b5d4c93'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\select-online-protection1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/select-online-protection1.png)
@@ -2170,11 +2170,11 @@
 * Handoff File: [531f274ed033df611ff54906da469b11b33b5d4c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/531f274ed033df611ff54906da469b11b33b5d4c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='46750da2be6f587881fa5aedc0b3366737f1349494'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\select-protection-group-type.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/select-protection-group-type.png)
@@ -2183,11 +2183,11 @@
 * Handoff File: [46750da2be6f587881fa5aedc0b3366737f13494.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/46750da2be6f587881fa5aedc0b3366737f13494.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='da68ec3f94e48f477f9602e5398bde8d1289052795'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\select-recovery-type.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/select-recovery-type.png)
@@ -2196,11 +2196,11 @@
 * Handoff File: [da68ec3f94e48f477f9602e5398bde8d12890527.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/da68ec3f94e48f477f9602e5398bde8d12890527.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='3aef75346865f06c1fe9e1ae4c787ee0f8529b0496'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\specify-online-backup-schedule.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/specify-online-backup-schedule.png)
@@ -2209,11 +2209,11 @@
 * Handoff File: [3aef75346865f06c1fe9e1ae4c787ee0f8529b04.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3aef75346865f06c1fe9e1ae4c787ee0f8529b04.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='b1a7b6a893bd0675d136d2841d30fa3c61557aaa97'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\specify-online-retention.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/specify-online-retention.png)
@@ -2222,11 +2222,11 @@
 * Handoff File: [b1a7b6a893bd0675d136d2841d30fa3c61557aaa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b1a7b6a893bd0675d136d2841d30fa3c61557aaa.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='40422d4b017bea291edb2e0e370247f71bf486a598'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\specify-short-term-goals2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/specify-short-term-goals2.png)
@@ -2235,11 +2235,11 @@
 * Handoff File: [40422d4b017bea291edb2e0e370247f71bf486a5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/40422d4b017bea291edb2e0e370247f71bf486a5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='3201705407b99e15c5dde8f2552f38484cbbebcb99'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\staging-location1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/staging-location1.png)
@@ -2248,11 +2248,11 @@
 * Handoff File: [3201705407b99e15c5dde8f2552f38484cbbebcb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3201705407b99e15c5dde8f2552f38484cbbebcb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='cf79c274991195f00fa9d2933ac22a86ebee7ee2100'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\staging-location2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/staging-location2.png)
@@ -2261,11 +2261,11 @@
 * Handoff File: [cf79c274991195f00fa9d2933ac22a86ebee7ee2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/cf79c274991195f00fa9d2933ac22a86ebee7ee2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='7259f35d3392ab939ecd6a3cbeaf1fe48d85366d101'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sharepoint\summary.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sharepoint/summary.png)
@@ -2274,11 +2274,11 @@
 * Handoff File: [7259f35d3392ab939ecd6a3cbeaf1fe48d85366d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7259f35d3392ab939ecd6a3cbeaf1fe48d85366d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sharepoint.md
 * [Back to Top](#report-top)
 
 ##### <a name='8041b7cf1cbcec9b25543b3b08fe965ce7b01126102'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-consistent.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-consistent.png)
@@ -2287,11 +2287,11 @@
 * Handoff File: [8041b7cf1cbcec9b25543b3b08fe965ce7b01126.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8041b7cf1cbcec9b25543b3b08fe965ce7b01126.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='6cc64a29931c86249af50f0103b17adf7ae1f19f103'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-databases.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-databases.png)
@@ -2300,11 +2300,11 @@
 * Handoff File: [6cc64a29931c86249af50f0103b17adf7ae1f19f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6cc64a29931c86249af50f0103b17adf7ae1f19f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='4944d81a94c77cd6db60f0127a5b3dca280fb83e104'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-manual.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-manual.png)
@@ -2313,11 +2313,11 @@
 * Handoff File: [4944d81a94c77cd6db60f0127a5b3dca280fb83e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4944d81a94c77cd6db60f0127a5b3dca280fb83e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='5d6e8dc6eafef192aad6841104d9a875db81b869105'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-name.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-name.png)
@@ -2326,11 +2326,11 @@
 * Handoff File: [5d6e8dc6eafef192aad6841104d9a875db81b869.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/5d6e8dc6eafef192aad6841104d9a875db81b869.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='54908936450e397ba88fcb607fad06b00cb02b90106'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-retentionschedule.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-retentionschedule.png)
@@ -2339,11 +2339,11 @@
 * Handoff File: [54908936450e397ba88fcb607fad06b00cb02b90.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/54908936450e397ba88fcb607fad06b00cb02b90.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='7234b968aa33e92c1862eedae9736ba437b6eb13107'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-schedule.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-schedule.png)
@@ -2352,11 +2352,11 @@
 * Handoff File: [7234b968aa33e92c1862eedae9736ba437b6eb13.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7234b968aa33e92c1862eedae9736ba437b6eb13.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='e17a6848de1e8731b0af601c6e215982868b94e9108'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-servers.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-servers.png)
@@ -2365,11 +2365,11 @@
 * Handoff File: [e17a6848de1e8731b0af601c6e215982868b94e9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e17a6848de1e8731b0af601c6e215982868b94e9.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='ea5f748fa323e6f78f0225ed6592dab9a383ab52109'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-shortterm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-shortterm.png)
@@ -2378,11 +2378,11 @@
 * Handoff File: [ea5f748fa323e6f78f0225ed6592dab9a383ab52.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ea5f748fa323e6f78f0225ed6592dab9a383ab52.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='578d2cb1169fd4a7e17dce935f2b38db3efa7722110'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-sqldatabases.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-sqldatabases.png)
@@ -2391,11 +2391,11 @@
 * Handoff File: [578d2cb1169fd4a7e17dce935f2b38db3efa7722.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/578d2cb1169fd4a7e17dce935f2b38db3efa7722.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='af89341b9ae4a4bed0b157dc97bbc58863bfb9e2111'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-storage.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-storage.png)
@@ -2404,11 +2404,11 @@
 * Handoff File: [af89341b9ae4a4bed0b157dc97bbc58863bfb9e2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/af89341b9ae4a4bed0b157dc97bbc58863bfb9e2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='556a1ecc3c4271ebf45ce91587800abafccf7066112'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\pg-summary.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/pg-summary.png)
@@ -2417,11 +2417,11 @@
 * Handoff File: [556a1ecc3c4271ebf45ce91587800abafccf7066.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/556a1ecc3c4271ebf45ce91587800abafccf7066.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='e04d69ebc3e14a482678b5a46448cc72f5263f44113'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\protection-group.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/protection-group.png)
@@ -2430,11 +2430,11 @@
 * Handoff File: [e04d69ebc3e14a482678b5a46448cc72f5263f44.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e04d69ebc3e14a482678b5a46448cc72f5263f44.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='b9f0b2a4dd1ecd3931c928c09a5c4fdc88d73f8c114'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-azure.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-azure.png)
@@ -2443,11 +2443,11 @@
 * Handoff File: [b9f0b2a4dd1ecd3931c928c09a5c4fdc88d73f8c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b9f0b2a4dd1ecd3931c928c09a5c4fdc88d73f8c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='1b7352d0fd76b77cfa448701c0cee40c25e65b19115'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-createrp.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-createrp.png)
@@ -2456,11 +2456,11 @@
 * Handoff File: [1b7352d0fd76b77cfa448701c0cee40c25e65b19.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/1b7352d0fd76b77cfa448701c0cee40c25e65b19.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='2118b2c22f6ab3f9e28058a8ab5c2d61352d7702116'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-monitoring.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-monitoring.png)
@@ -2469,11 +2469,11 @@
 * Handoff File: [2118b2c22f6ab3f9e28058a8ab5c2d61352d7702.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/2118b2c22f6ab3f9e28058a8ab5c2d61352d7702.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='104ebb01262325f7075184aedb569d62584e2d40117'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-recover.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-recover.png)
@@ -2482,11 +2482,11 @@
 * Handoff File: [104ebb01262325f7075184aedb569d62584e2d40.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/104ebb01262325f7075184aedb569d62584e2d40.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='d56060f2390511d7b631df70ab999db6f68a6b4a118'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-recoveroriginal.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-recoveroriginal.png)
@@ -2495,11 +2495,11 @@
 * Handoff File: [d56060f2390511d7b631df70ab999db6f68a6b4a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d56060f2390511d7b631df70ab999db6f68a6b4a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='7957b2c1dc588b059348e844789145b58b07b274119'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-recoverying.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-recoverying.png)
@@ -2508,11 +2508,11 @@
 * Handoff File: [7957b2c1dc588b059348e844789145b58b07b274.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7957b2c1dc588b059348e844789145b58b07b274.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='daba47a7b693d284f71313462af56bd824eb90e2120'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-recoverypoint.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-recoverypoint.png)
@@ -2521,11 +2521,11 @@
 * Handoff File: [daba47a7b693d284f71313462af56bd824eb90e2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/daba47a7b693d284f71313462af56bd824eb90e2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='4d20c0e0abe2482e759b7e5dbe265e08134c149e121'></a> Source: [Acom\articles\backup\media\backup-azure-backup-sql\sqlbackup-restorepoint.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-sql/sqlbackup-restorepoint.png)
@@ -2534,11 +2534,11 @@
 * Handoff File: [4d20c0e0abe2482e759b7e5dbe265e08134c149e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4d20c0e0abe2482e759b7e5dbe265e08134c149e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-sql.md
 * [Back to Top](#report-top)
 
 ##### <a name='9ac962eab8717aa71ac8b822d716c775f1c21c88122'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\anotherserver.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/anotherserver.png)
@@ -2547,11 +2547,11 @@
 * Handoff File: [9ac962eab8717aa71ac8b822d716c775f1c21c88.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/9ac962eab8717aa71ac8b822d716c775f1c21c88.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='4018b042e6e5a3e33f7783fabc25ac53523ac5e7123'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\backupnow.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-windows-server/backupnow.png)
@@ -2560,11 +2560,11 @@
 * Handoff File: [4018b042e6e5a3e33f7783fabc25ac53523ac5e7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4018b042e6e5a3e33f7783fabc25ac53523ac5e7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='10a4d3dbf26758388a0b80f1dec16b76e421e2aa124'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\browseandsearch.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/browseandsearch.png)
@@ -2573,11 +2573,11 @@
 * Handoff File: [10a4d3dbf26758388a0b80f1dec16b76e421e2aa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/10a4d3dbf26758388a0b80f1dec16b76e421e2aa.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='5c71353aaf8ed5464498a87c724b32cde4a35c4e125'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\encryption.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/encryption.png)
@@ -2586,11 +2586,11 @@
 * Handoff File: [5c71353aaf8ed5464498a87c724b32cde4a35c4e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/5c71353aaf8ed5464498a87c724b32cde4a35c4e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='38390798b9a1f4f86de815edccc283918016f73d126'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\initialbackup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-windows-server/initialbackup.png)
@@ -2599,11 +2599,11 @@
 * Handoff File: [38390798b9a1f4f86de815edccc283918016f73d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/38390798b9a1f4f86de815edccc283918016f73d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='705fea3f02faeb79ca7fe4c78542593c73c7782e127'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\ircomplete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-windows-server/ircomplete.png)
@@ -2612,11 +2612,11 @@
 * Handoff File: [705fea3f02faeb79ca7fe4c78542593c73c7782e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/705fea3f02faeb79ca7fe4c78542593c73c7782e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='bed21da1647a0bb95eaa78b2f7c543e56d7f71bf128'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\items.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-windows-server/items.png)
@@ -2625,11 +2625,11 @@
 * Handoff File: [bed21da1647a0bb95eaa78b2f7c543e56d7f71bf.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bed21da1647a0bb95eaa78b2f7c543e56d7f71bf.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='d4de4494deff8768dc5a6ad5aa15598c15980909129'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\machinelist.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/machinelist.png)
@@ -2638,11 +2638,11 @@
 * Handoff File: [d4de4494deff8768dc5a6ad5aa15598c15980909.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d4de4494deff8768dc5a6ad5aa15598c15980909.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='27e21d95d616781b51b0d5a312c27f31346d4a25130'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\recover.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/recover.png)
@@ -2663,11 +2663,11 @@
 * Handoff File: [c40bac2b69ec8804fef6f8c77a73c879f9052411.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c40bac2b69ec8804fef6f8c77a73c879f9052411.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='cb0098a6167aabb9518b948bb682db38fa790032132'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\restorelocation.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/restorelocation.png)
@@ -2676,11 +2676,11 @@
 * Handoff File: [cb0098a6167aabb9518b948bb682db38fa790032.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/cb0098a6167aabb9518b948bb682db38fa790032.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='a068cccbcb4856c2a88243ac324d7877ab46fbc6133'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\result.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-windows-server/result.png)
@@ -2689,11 +2689,11 @@
 * Handoff File: [a068cccbcb4856c2a88243ac324d7877ab46fbc6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/a068cccbcb4856c2a88243ac324d7877ab46fbc6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='f142a709ca0e8f50ed466b2e2eeed5c18bcd19fb134'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\samemachine.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/samemachine.png)
@@ -2702,11 +2702,11 @@
 * Handoff File: [f142a709ca0e8f50ed466b2e2eeed5c18bcd19fb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f142a709ca0e8f50ed466b2e2eeed5c18bcd19fb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='2bc7c3abe7cd2c1237d6e5a8597d692122656cb1135'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\schedulebackup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-backup-windows-server/schedulebackup.png)
@@ -2715,11 +2715,11 @@
 * Handoff File: [2bc7c3abe7cd2c1237d6e5a8597d692122656cb1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/2bc7c3abe7cd2c1237d6e5a8597d692122656cb1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='8c4fda14ec959a55e4d7f2548783ab1d56ec33f0136'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\search.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/search.png)
@@ -2728,11 +2728,11 @@
 * Handoff File: [8c4fda14ec959a55e4d7f2548783ab1d56ec33f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8c4fda14ec959a55e4d7f2548783ab1d56ec33f0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='c03e818ce5de0393bbe69839ac071eb67a6608f3137'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\searchitems.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/searchitems.png)
@@ -2741,11 +2741,11 @@
 * Handoff File: [c03e818ce5de0393bbe69839ac071eb67a6608f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c03e818ce5de0393bbe69839ac071eb67a6608f3.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='c5319ac228a817a5348fca9123fc2555f040a88e138'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\selectfiles.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/selectfiles.png)
@@ -2754,11 +2754,11 @@
 * Handoff File: [c5319ac228a817a5348fca9123fc2555f040a88e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c5319ac228a817a5348fca9123fc2555f040a88e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='8345d605f6b452cb00ec46410ff81b70ac06218b139'></a> Source: [Acom\articles\backup\media\backup-azure-backup-windows-server\volanddate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-backup-windows-server/volanddate.png)
@@ -2767,11 +2767,11 @@
 * Handoff File: [8345d605f6b452cb00ec46410ff81b70ac06218b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8345d605f6b452cb00ec46410ff81b70ac06218b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='bf5789cedd12f4a2f2c5d0af5e5373089c9796ef140'></a> Source: [Acom\articles\backup\media\backup-azure-dpm-introduction\backup_vaultcreate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-dpm-introduction/backup_vaultcreate.png)
@@ -2780,11 +2780,11 @@
 * Handoff File: [bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='48715dc04022a17520f42755b3fc28d8b50f9d85141'></a> Source: [Acom\articles\backup\media\backup-azure-dpm-introduction\backup_vaultslist.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-dpm-introduction/backup_vaultslist.png)
@@ -2793,11 +2793,11 @@
 * Handoff File: [48715dc04022a17520f42755b3fc28d8b50f9d85.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/48715dc04022a17520f42755b3fc28d8b50f9d85.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205142'></a> Source: [Acom\articles\backup\media\backup-azure-dpm-introduction\creating-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-dpm-introduction/creating-vault.png)
@@ -2806,11 +2806,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754143'></a> Source: [Acom\articles\backup\media\backup-azure-dpm-introduction\vault-policy-vm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-dpm-introduction/vault-policy-vm.png)
@@ -2819,11 +2819,11 @@
 * Handoff File: [d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='4b7159c94e8c674cc53f357d2780cea2b1db630f144'></a> Source: [Acom\articles\backup\media\backup-azure-dpm-introduction\vmbackup-architecture.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-dpm-introduction/vmbackup-architecture.png)
@@ -2832,11 +2832,11 @@
 * Handoff File: [4b7159c94e8c674cc53f357d2780cea2b1db630f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4b7159c94e8c674cc53f357d2780cea2b1db630f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-introduction.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-introduction.md
 * [Back to Top](#report-top)
 
 ##### <a name='bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4145'></a> Source: [Acom\articles\backup\media\backup-azure-dpm-introduction\vmbackup-instructions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-dpm-introduction/vmbackup-instructions.png)
@@ -2845,11 +2845,11 @@
 * Handoff File: [bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='f07292b4e0edacf0c97289a8b6c4a4e2d53cbb5f146'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\alert-body.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/alert-body.png)
@@ -2858,11 +2858,11 @@
 * Handoff File: [f07292b4e0edacf0c97289a8b6c4a4e2d53cbb5f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f07292b4e0edacf0c97289a8b6c4a4e2d53cbb5f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='0eb4a3a22172f53f5bb5e2bb4b73c78dcf2750f2147'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\alert-header.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/alert-header.png)
@@ -2871,11 +2871,11 @@
 * Handoff File: [0eb4a3a22172f53f5bb5e2bb4b73c78dcf2750f2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/0eb4a3a22172f53f5bb5e2bb4b73c78dcf2750f2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='f657002ba96fde8d4e4ba997729fa021bf8b4286148'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\backup-job.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/backup-job.png)
@@ -2884,11 +2884,11 @@
 * Handoff File: [f657002ba96fde8d4e4ba997729fa021bf8b4286.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f657002ba96fde8d4e4ba997729fa021bf8b4286.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='331df46600c98293c6f73966bde14ec197236e85149'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\backup-now.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/backup-now.png)
@@ -2897,11 +2897,11 @@
 * Handoff File: [331df46600c98293c6f73966bde14ec197236e85.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/331df46600c98293c6f73966bde14ec197236e85.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='f9e91f1cecfe669a54e8ca7954003b0243f91686150'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\backup-vmdetails.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/backup-vmdetails.png)
@@ -2910,11 +2910,11 @@
 * Handoff File: [f9e91f1cecfe669a54e8ca7954003b0243f91686.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f9e91f1cecfe669a54e8ca7954003b0243f91686.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='c6123803c8fd9bbf2ff89f5a9b5e4faf394b7b81151'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\backup-vmpolicy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/backup-vmpolicy.png)
@@ -2923,11 +2923,11 @@
 * Handoff File: [c6123803c8fd9bbf2ff89f5a9b5e4faf394b7b81.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c6123803c8fd9bbf2ff89f5a9b5e4faf394b7b81.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='343a969b2afe26409ed8d1faba5e9db43f00805a152'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\checkbox.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/checkbox.png)
@@ -2936,11 +2936,11 @@
 * Handoff File: [343a969b2afe26409ed8d1faba5e9db43f00805a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/343a969b2afe26409ed8d1faba5e9db43f00805a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='2ca56dc378d302b20ff50e0368ea0f8a3ac62908153'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\confirm-stop-protection.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/confirm-stop-protection.png)
@@ -2949,11 +2949,11 @@
 * Handoff File: [2ca56dc378d302b20ff50e0368ea0f8a3ac62908.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/2ca56dc378d302b20ff50e0368ea0f8a3ac62908.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='ea9523ccd78925eb19acd3f418bdd6be41010eaa154'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\confirm-unregister.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/confirm-unregister.png)
@@ -2962,11 +2962,11 @@
 * Handoff File: [ea9523ccd78925eb19acd3f418bdd6be41010eaa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ea9523ccd78925eb19acd3f418bdd6be41010eaa.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='c79cc4d8b9a26d2111487471eee7da0c025448e0155'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\created-job.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/created-job.png)
@@ -2975,11 +2975,11 @@
 * Handoff File: [c79cc4d8b9a26d2111487471eee7da0c025448e0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c79cc4d8b9a26d2111487471eee7da0c025448e0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='7676d5dc67205f8e9b5e001a1bd4f9ad916b747d156'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\creating-job.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/creating-job.png)
@@ -2988,11 +2988,11 @@
 * Handoff File: [7676d5dc67205f8e9b5e001a1bd4f9ad916b747d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7676d5dc67205f8e9b5e001a1bd4f9ad916b747d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='f0f86d07d3e350cf79ed4630813e1cfceb12a480157'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\dashboard-protectedvms.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/dashboard-protectedvms.png)
@@ -3001,11 +3001,11 @@
 * Handoff File: [f0f86d07d3e350cf79ed4630813e1cfceb12a480.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f0f86d07d3e350cf79ed4630813e1cfceb12a480.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='730ee15b141a9fc00b0d9908a7894e845a5afdab159'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\delete-backup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/delete-backup.png)
@@ -3014,11 +3014,11 @@
 * Handoff File: [730ee15b141a9fc00b0d9908a7894e845a5afdab.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/730ee15b141a9fc00b0d9908a7894e845a5afdab.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='674b3eaaa652460162a218b8f6fbe1a85b921e7d158'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\delete-backup-data.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/delete-backup-data.png)
@@ -3027,11 +3027,11 @@
 * Handoff File: [674b3eaaa652460162a218b8f6fbe1a85b921e7d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/674b3eaaa652460162a218b8f6fbe1a85b921e7d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='5b27eced084ef1dbc3f1e100122b4bf97741322d160'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\delete-data-success.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/delete-data-success.png)
@@ -3040,11 +3040,11 @@
 * Handoff File: [5b27eced084ef1dbc3f1e100122b4bf97741322d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/5b27eced084ef1dbc3f1e100122b4bf97741322d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='68766a4088192620400e6f9f6037bb3b8052ae9a161'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\manage-policy-settings.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/manage-policy-settings.png)
@@ -3053,11 +3053,11 @@
 * Handoff File: [68766a4088192620400e6f9f6037bb3b8052ae9a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/68766a4088192620400e6f9f6037bb3b8052ae9a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='c7fc3dc5bd006b8b91be7aa486af13e9bd655de1165'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\ops-logs.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/ops-logs.png)
@@ -3066,11 +3066,11 @@
 * Handoff File: [c7fc3dc5bd006b8b91be7aa486af13e9bd655de1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c7fc3dc5bd006b8b91be7aa486af13e9bd655de1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='39dea011e388edf7865d0543344f612edbb5469f163'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\ops-logs-details.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/ops-logs-details.png)
@@ -3079,11 +3079,11 @@
 * Handoff File: [39dea011e388edf7865d0543344f612edbb5469f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/39dea011e388edf7865d0543344f612edbb5469f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='620c4070a55a6825ed774291416633395c69273e162'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\ops-logs-details-window.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/ops-logs-details-window.png)
@@ -3092,11 +3092,11 @@
 * Handoff File: [620c4070a55a6825ed774291416633395c69273e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/620c4070a55a6825ed774291416633395c69273e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='9bf957c23d49e3b6871ceb57078d4756c248dd46164'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\ops-logs-filter.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/ops-logs-filter.png)
@@ -3105,11 +3105,11 @@
 * Handoff File: [9bf957c23d49e3b6871ceb57078d4756c248dd46.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/9bf957c23d49e3b6871ceb57078d4756c248dd46.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='fce4870831c2e59671e54d62889e8bb1eb293d4e166'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\protection-stopped-b.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/protection-stopped-b.png)
@@ -3118,11 +3118,11 @@
 * Handoff File: [fce4870831c2e59671e54d62889e8bb1eb293d4e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fce4870831c2e59671e54d62889e8bb1eb293d4e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='fce4870831c2e59671e54d62889e8bb1eb293d4e167'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\protection-stopped-status.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-manage-vms/protection-stopped-status.png)
@@ -3131,11 +3131,11 @@
 * Handoff File: [fce4870831c2e59671e54d62889e8bb1eb293d4e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fce4870831c2e59671e54d62889e8bb1eb293d4e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='0145d2e633090a5861092afebd8f2be4892db30f168'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\reprotected-status.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/reprotected-status.png)
@@ -3144,11 +3144,11 @@
 * Handoff File: [0145d2e633090a5861092afebd8f2be4892db30f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/0145d2e633090a5861092afebd8f2be4892db30f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='6e22ed9dbfd9828fe9bda47864d616c78a8de1d6170'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\stop-protection.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/stop-protection.png)
@@ -3157,11 +3157,11 @@
 * Handoff File: [6e22ed9dbfd9828fe9bda47864d616c78a8de1d6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6e22ed9dbfd9828fe9bda47864d616c78a8de1d6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='77eca1929b0432fd2bf85f006de4a64180c9a0c9169'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\stop-protect-success.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/stop-protect-success.png)
@@ -3170,11 +3170,11 @@
 * Handoff File: [77eca1929b0432fd2bf85f006de4a64180c9a0c9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/77eca1929b0432fd2bf85f006de4a64180c9a0c9.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='5942ea8651b5bd980adc50da1c935dd70d0b72ac171'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\unregister-button.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/unregister-button.png)
@@ -3183,11 +3183,11 @@
 * Handoff File: [5942ea8651b5bd980adc50da1c935dd70d0b72ac.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/5942ea8651b5bd980adc50da1c935dd70d0b72ac.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='78fd0a186db588f44d1db4a1aabcb5ca5217de66172'></a> Source: [Acom\articles\backup\media\backup-azure-manage-vms\vm-type.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-vms/vm-type.png)
@@ -3196,11 +3196,11 @@
 * Handoff File: [78fd0a186db588f44d1db4a1aabcb5ca5217de66.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/78fd0a186db588f44d1db4a1aabcb5ca5217de66.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='784029e4a3a74a8112937209b4902f48887344ef173'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\add-exclusion.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/add-exclusion.png)
@@ -3209,11 +3209,11 @@
 * Handoff File: [784029e4a3a74a8112937209b4902f48887344ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/784029e4a3a74a8112937209b4902f48887344ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='4f7f78ff34b7c846eadeb1e8c20dccd36efd87ea174'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\add-items-modify.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/add-items-modify.png)
@@ -3222,11 +3222,11 @@
 * Handoff File: [4f7f78ff34b7c846eadeb1e8c20dccd36efd87ea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4f7f78ff34b7c846eadeb1e8c20dccd36efd87ea.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='ea8ff68881251ecfbac232b877afb1c060d70db0175'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\backup-management-tabs.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-manage-windows-server/backup-management-tabs.png)
@@ -3247,11 +3247,11 @@
 * Handoff File: [cfb0f724b6cd84d6d9a042ed93140e33cc35ec4b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/cfb0f724b6cd84d6d9a042ed93140e33cc35ec4b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='ac1e52a81308bc8a5ce63bb4174434ae242e37dd177'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\console-actions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/console-actions.png)
@@ -3260,11 +3260,11 @@
 * Handoff File: [ac1e52a81308bc8a5ce63bb4174434ae242e37dd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ac1e52a81308bc8a5ce63bb4174434ae242e37dd.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='eb64da7076fcbc4ecb8463e1ae62603b1403eeb3178'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\dashboard-tasks.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/dashboard-tasks.png)
@@ -3273,11 +3273,11 @@
 * Handoff File: [eb64da7076fcbc4ecb8463e1ae62603b1403eeb3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/eb64da7076fcbc4ecb8463e1ae62603b1403eeb3.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='a886ef4e403eae2483e447858fc2cebe5fe6b355182'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\excluded-folders.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-manage-windows-server/excluded-folders.png)
@@ -3298,11 +3298,11 @@
 * Handoff File: [adc7894abf7f7fa017235be4ee52b103bd6b6a27.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/adc7894abf7f7fa017235be4ee52b103bd6b6a27.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='ff1e9db9fe05841e0e97c6fdb31e74941bb91070180'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\exclude-jpg.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/exclude-jpg.png)
@@ -3311,11 +3311,11 @@
 * Handoff File: [ff1e9db9fe05841e0e97c6fdb31e74941bb91070.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ff1e9db9fe05841e0e97c6fdb31e74941bb91070.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='f37a417dfdec9a9308f513dbdcf17402e43475f7181'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\exclude-mp3.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/exclude-mp3.png)
@@ -3324,11 +3324,11 @@
 * Handoff File: [f37a417dfdec9a9308f513dbdcf17402e43475f7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f37a417dfdec9a9308f513dbdcf17402e43475f7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='3029b269680fb16946c0a0ac716398ca011f8c65183'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\exclusion-location.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/exclusion-location.png)
@@ -3337,11 +3337,11 @@
 * Handoff File: [3029b269680fb16946c0a0ac716398ca011f8c65.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3029b269680fb16946c0a0ac716398ca011f8c65.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='7e6d0822c6bd29a8486af8dee1d55bd3dd9e1d0c184'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\exclusion-settings.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/exclusion-settings.png)
@@ -3350,11 +3350,11 @@
 * Handoff File: [7e6d0822c6bd29a8486af8dee1d55bd3dd9e1d0c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7e6d0822c6bd29a8486af8dee1d55bd3dd9e1d0c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='73ce239b53e65d2b4a6e907888d9f011b0c9cf31185'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\finish-exclusions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/finish-exclusions.png)
@@ -3363,11 +3363,11 @@
 * Handoff File: [73ce239b53e65d2b4a6e907888d9f011b0c9cf31.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/73ce239b53e65d2b4a6e907888d9f011b0c9cf31.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='605e535fe96ee95d4b819f09a352c8e0125d7ebb186'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\ircomplete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-manage-windows-server/ircomplete.png)
@@ -3376,11 +3376,11 @@
 * Handoff File: [605e535fe96ee95d4b819f09a352c8e0125d7ebb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/605e535fe96ee95d4b819f09a352c8e0125d7ebb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='fa2393bd77eeaf566ecb8510f3284cf9fb9a8180187'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\items-to-exclude.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-manage-windows-server/items-to-exclude.png)
@@ -3401,11 +3401,11 @@
 * Handoff File: [c1a511f73ab2ecef05f5abc4315c6d8f62789d75.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c1a511f73ab2ecef05f5abc4315c6d8f62789d75.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='63fbef5a2edcc732fcb9e7f02c67f6aee6010be2189'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\policies.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-manage-windows-server/policies.png)
@@ -3438,11 +3438,11 @@
 * Handoff File: [3d79549e7673db67b9de4711a99af76f48bc44b1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3d79549e7673db67b9de4711a99af76f48bc44b1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='9b08981344b9d40b9de75969f45eece56a5eca21192'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\qs-page.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/qs-page.png)
@@ -3451,11 +3451,11 @@
 * Handoff File: [9b08981344b9d40b9de75969f45eece56a5eca21.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/9b08981344b9d40b9de75969f45eece56a5eca21.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='d83fd622c4ab60fd64b5aff20774b1518d85008d194'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\registered-items.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/registered-items.png)
@@ -3464,11 +3464,11 @@
 * Handoff File: [d83fd622c4ab60fd64b5aff20774b1518d85008d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d83fd622c4ab60fd64b5aff20774b1518d85008d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='858b011b891b68a321a57d1549450375acc6a5ac193'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\registered-items-tasks.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/registered-items-tasks.png)
@@ -3477,11 +3477,11 @@
 * Handoff File: [858b011b891b68a321a57d1549450375acc6a5ac.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/858b011b891b68a321a57d1549450375acc6a5ac.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='72089b1e95c10c407ba497164f37293482645afb195'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\rs-left-nav.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/rs-left-nav.png)
@@ -3490,11 +3490,11 @@
 * Handoff File: [72089b1e95c10c407ba497164f37293482645afb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/72089b1e95c10c407ba497164f37293482645afb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='7b688098a77a29c99f18e8dd02a374dc8de25601196'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\save-discard.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-manage-windows-server/save-discard.png)
@@ -3515,11 +3515,11 @@
 * Handoff File: [9b739a0bcc3b825c6791e4b82fbf7f9b4221d18e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/9b739a0bcc3b825c6791e4b82fbf7f9b4221d18e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='c7eac2c17b1a097cd1bf1075e79f54f0baaff6af198'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\select-retention-policy-modify.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/select-retention-policy-modify.png)
@@ -3528,11 +3528,11 @@
 * Handoff File: [c7eac2c17b1a097cd1bf1075e79f54f0baaff6af.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c7eac2c17b1a097cd1bf1075e79f54f0baaff6af.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='35b69006f2655b60b96418c2154bd7341f30d2ea199'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\snap-in-search.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/snap-in-search.png)
@@ -3541,11 +3541,11 @@
 * Handoff File: [35b69006f2655b60b96418c2154bd7341f30d2ea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/35b69006f2655b60b96418c2154bd7341f30d2ea.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='d82a23299af679cf7d1da877dc42a8a6f8d3b766200'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\specify-backup-schedule-modify-close.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/specify-backup-schedule-modify-close.png)
@@ -3554,11 +3554,11 @@
 * Handoff File: [d82a23299af679cf7d1da877dc42a8a6f8d3b766.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d82a23299af679cf7d1da877dc42a8a6f8d3b766.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='b8f455532021e08f057799c212e97bb066853900201'></a> Source: [Acom\articles\backup\media\backup-azure-manage-windows-server\throttling-dialog.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-manage-windows-server/throttling-dialog.png)
@@ -3567,11 +3567,11 @@
 * Handoff File: [b8f455532021e08f057799c212e97bb066853900.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b8f455532021e08f057799c212e97bb066853900.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='bf5789cedd12f4a2f2c5d0af5e5373089c9796ef202'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\backup_vaultcreate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/backup_vaultcreate.png)
@@ -3580,11 +3580,11 @@
 * Handoff File: [bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='48715dc04022a17520f42755b3fc28d8b50f9d85203'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\backup_vaultslist.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/backup_vaultslist.png)
@@ -3593,11 +3593,11 @@
 * Handoff File: [48715dc04022a17520f42755b3fc28d8b50f9d85.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/48715dc04022a17520f42755b3fc28d8b50f9d85.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205204'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\creating-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/creating-vault.png)
@@ -3606,11 +3606,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='c8e456600c1b3babba23c368f1cb9c3a8f3313c8205'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\downloadcenter.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/downloadcenter.png)
@@ -3619,11 +3619,11 @@
 * Handoff File: [c8e456600c1b3babba23c368f1cb9c3a8f3313c8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c8e456600c1b3babba23c368f1cb9c3a8f3313c8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='b589aae802f91c5948ae6731997b9ca9082d6d05206'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\downloadcenter1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/downloadcenter1.png)
@@ -3632,11 +3632,11 @@
 * Handoff File: [b589aae802f91c5948ae6731997b9ca9082d6d05.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b589aae802f91c5948ae6731997b9ca9082d6d05.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='573e20dca2e783d63d14cebe216cd0b23545dab5207'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\dpm-venus1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/dpm-venus1.png)
@@ -3645,11 +3645,11 @@
 * Handoff File: [573e20dca2e783d63d14cebe216cd0b23545dab5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/573e20dca2e783d63d14cebe216cd0b23545dab5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='9362fb2b92b6e5d2923119791b08430d10dfd8cb208'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\extract\01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/extract/01.png)
@@ -3682,11 +3682,11 @@
 * Handoff File: [598e2f2de7adf9482a9ca104dfaa35f4ac3c94b4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/598e2f2de7adf9482a9ca104dfaa35f4ac3c94b4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='2438c3ed74f2870994ed629c356574e0a4dee423211'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\extract\04.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/extract/04.png)
@@ -3731,11 +3731,11 @@
 * Handoff File: [3eaba364860e42680564f3c96c94510de78f818e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3eaba364860e42680564f3c96c94510de78f818e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='068163e4f7e0befcb8a3dd4993598424c52e47be215'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\launch-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/launch-screen2.png)
@@ -3744,11 +3744,11 @@
 * Handoff File: [068163e4f7e0befcb8a3dd4993598424c52e47be.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/068163e4f7e0befcb8a3dd4993598424c52e47be.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='2b81e19a82cdb514214438f73649db651388e509216'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\mars\01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/mars/01.png)
@@ -3793,11 +3793,11 @@
 * Handoff File: [7b53bb1ecf3e1d5421c315d9a6bdb87c6b53abac.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7b53bb1ecf3e1d5421c315d9a6bdb87c6b53abac.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='a22160af5561e3e12895218dfeef62e3390c2ab0220'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\mars\05.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/mars/05.png)
@@ -3842,11 +3842,11 @@
 * Handoff File: [2a083198705d38c37f3b7fbc37965ab6278902cb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/2a083198705d38c37f3b7fbc37965ab6278902cb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='10165eddfc4bde6476ffe6773e043151c754ba36224'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\welcome-screen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/welcome-screen.png)
@@ -3867,11 +3867,11 @@
 * Handoff File: [7f838c8cefbc121c813ad3d647e928bef2a58c10.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7f838c8cefbc121c813ad3d647e928bef2a58c10.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='a78895bdcc876116028082c1d914112984acbf1e226'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\space-screen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/space-screen.png)
@@ -3880,11 +3880,11 @@
 * Handoff File: [a78895bdcc876116028082c1d914112984acbf1e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/a78895bdcc876116028082c1d914112984acbf1e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='7847c5bd6af4b55331cc9c6a2f670056c70e9e49227'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\sql\01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/sql/01.png)
@@ -3893,11 +3893,11 @@
 * Handoff File: [7847c5bd6af4b55331cc9c6a2f670056c70e9e49.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7847c5bd6af4b55331cc9c6a2f670056c70e9e49.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='6f5f52b94786d52d43f27fad6fa654e7fece897d228'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\sql\02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/sql/02.png)
@@ -3942,11 +3942,11 @@
 * Handoff File: [986b42798b888c970d963f0674737106d81e0ba1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/986b42798b888c970d963f0674737106d81e0ba1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='324a9b3479d61b0a3a893ee1fbb6d460f98b0bf8232'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\step2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/step2.png)
@@ -3955,11 +3955,11 @@
 * Handoff File: [324a9b3479d61b0a3a893ee1fbb6d460f98b0bf8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/324a9b3479d61b0a3a893ee1fbb6d460f98b0bf8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='19fc01b56965490cf87f7122c140f23b3500f8f6233'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\step3.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/step3.png)
@@ -3968,11 +3968,11 @@
 * Handoff File: [19fc01b56965490cf87f7122c140f23b3500f8f6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/19fc01b56965490cf87f7122c140f23b3500f8f6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='528a017d942a38a5ff4ac800cd69bfda612de2af234'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\step4.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/step4.png)
@@ -3981,11 +3981,11 @@
 * Handoff File: [528a017d942a38a5ff4ac800cd69bfda612de2af.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/528a017d942a38a5ff4ac800cd69bfda612de2af.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='97f7cff5c4038c0f07cdf5676ac1c50ca1724588235'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\summary-screen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/summary-screen.png)
@@ -3994,11 +3994,11 @@
 * Handoff File: [97f7cff5c4038c0f07cdf5676ac1c50ca1724588.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/97f7cff5c4038c0f07cdf5676ac1c50ca1724588.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='ff8875d179cc2ab64aa0cf91078217066745f3e1236'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\update-opt-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/update-opt-screen2.png)
@@ -4007,11 +4007,11 @@
 * Handoff File: [ff8875d179cc2ab64aa0cf91078217066745f3e1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ff8875d179cc2ab64aa0cf91078217066745f3e1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='d75206441f6c6b0eb1bbcf7c3ee8494009057d2b237'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\create-restore-job.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/create-restore-job.png)
@@ -4020,11 +4020,11 @@
 * Handoff File: [d75206441f6c6b0eb1bbcf7c3ee8494009057d2b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d75206441f6c6b0eb1bbcf7c3ee8494009057d2b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='08a83aaa51e47d6a6fbd4f14e9568978fe395af2238'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\protected-items.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/protected-items.png)
@@ -4033,11 +4033,11 @@
 * Handoff File: [08a83aaa51e47d6a6fbd4f14e9568978fe395af2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/08a83aaa51e47d6a6fbd4f14e9568978fe395af2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='0420f4762983e56cb9e7bd4f21999aee5eea5190239'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\recovery-points.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/recovery-points.png)
@@ -4046,11 +4046,11 @@
 * Handoff File: [0420f4762983e56cb9e7bd4f21999aee5eea5190.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/0420f4762983e56cb9e7bd4f21999aee5eea5190.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='3b8f75f3d54ae4de77b6efe9f02c4c85a7aa5459240'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\restore-cs-vnet.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/restore-cs-vnet.png)
@@ -4059,11 +4059,11 @@
 * Handoff File: [3b8f75f3d54ae4de77b6efe9f02c4c85a7aa5459.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3b8f75f3d54ae4de77b6efe9f02c4c85a7aa5459.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='dab9f63e12d7a033b82af4beec5b31c4a8f235a8241'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\restore-item.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/restore-item.png)
@@ -4072,11 +4072,11 @@
 * Handoff File: [dab9f63e12d7a033b82af4beec5b31c4a8f235a8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/dab9f63e12d7a033b82af4beec5b31c4a8f235a8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='c871584e74f26b330783dd25832d3b77d62c09dd242'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\restore-job-complete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/restore-job-complete.png)
@@ -4085,11 +4085,11 @@
 * Handoff File: [c871584e74f26b330783dd25832d3b77d62c09dd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c871584e74f26b330783dd25832d3b77d62c09dd.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='07db6872e64f9408a770593faaeabbb50744ed90243'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\restore-job-created.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/restore-job-created.png)
@@ -4098,11 +4098,11 @@
 * Handoff File: [07db6872e64f9408a770593faaeabbb50744ed90.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/07db6872e64f9408a770593faaeabbb50744ed90.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='85e75d4f89c29f08275cd1002a332b1ff5770637244'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\restore-sa.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/restore-sa.png)
@@ -4111,11 +4111,11 @@
 * Handoff File: [85e75d4f89c29f08275cd1002a332b1ff5770637.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/85e75d4f89c29f08275cd1002a332b1ff5770637.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='297a509e8b85798b806e11da8127c628121c2eb8245'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\select-date.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/select-date.png)
@@ -4124,11 +4124,11 @@
 * Handoff File: [297a509e8b85798b806e11da8127c628121c2eb8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/297a509e8b85798b806e11da8127c628121c2eb8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='b980c4455955e225e77b8a5befe9e224672b15f1246'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\select-recovery-point.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/select-recovery-point.png)
@@ -4137,11 +4137,11 @@
 * Handoff File: [b980c4455955e225e77b8a5befe9e224672b15f1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b980c4455955e225e77b8a5befe9e224672b15f1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='16a4a54d528b80f417b5f5e1aec6c31af5bcde90247'></a> Source: [Acom\articles\backup\media\backup-azure-restore-vms\select-subnet.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-vms/select-subnet.png)
@@ -4150,11 +4150,11 @@
 * Handoff File: [16a4a54d528b80f417b5f5e1aec6c31af5bcde90.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/16a4a54d528b80f417b5f5e1aec6c31af5bcde90.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='9ac962eab8717aa71ac8b822d716c775f1c21c88248'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\anotherserver.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/anotherserver.png)
@@ -4163,11 +4163,11 @@
 * Handoff File: [9ac962eab8717aa71ac8b822d716c775f1c21c88.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/9ac962eab8717aa71ac8b822d716c775f1c21c88.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='8d1f16d56145e8a52d37cc38bb1c2514a5ac7128249'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\backupnow.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-restore-windows-server/backupnow.png)
@@ -4188,11 +4188,11 @@
 * Handoff File: [10a4d3dbf26758388a0b80f1dec16b76e421e2aa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/10a4d3dbf26758388a0b80f1dec16b76e421e2aa.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='5c71353aaf8ed5464498a87c724b32cde4a35c4e251'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\encryption.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/encryption.png)
@@ -4201,11 +4201,11 @@
 * Handoff File: [5c71353aaf8ed5464498a87c724b32cde4a35c4e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/5c71353aaf8ed5464498a87c724b32cde4a35c4e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='38390798b9a1f4f86de815edccc283918016f73d252'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\initialbackup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-restore-windows-server/initialbackup.png)
@@ -4214,11 +4214,11 @@
 * Handoff File: [38390798b9a1f4f86de815edccc283918016f73d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/38390798b9a1f4f86de815edccc283918016f73d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='4f8a35943ee19c346dd9c7f6a52e9a6f3b8f26cf253'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\ircomplete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-restore-windows-server/ircomplete.png)
@@ -4239,11 +4239,11 @@
 * Handoff File: [bed21da1647a0bb95eaa78b2f7c543e56d7f71bf.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bed21da1647a0bb95eaa78b2f7c543e56d7f71bf.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='d4de4494deff8768dc5a6ad5aa15598c15980909255'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\machinelist.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/machinelist.png)
@@ -4252,11 +4252,11 @@
 * Handoff File: [d4de4494deff8768dc5a6ad5aa15598c15980909.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d4de4494deff8768dc5a6ad5aa15598c15980909.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='7233b16d8a321fb6edaca7acacf7983fd8d6afd3256'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\recover.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/recover.png)
@@ -4265,11 +4265,11 @@
 * Handoff File: [7233b16d8a321fb6edaca7acacf7983fd8d6afd3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7233b16d8a321fb6edaca7acacf7983fd8d6afd3.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='c40bac2b69ec8804fef6f8c77a73c879f9052411257'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\recoveroptions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/recoveroptions.png)
@@ -4278,11 +4278,11 @@
 * Handoff File: [c40bac2b69ec8804fef6f8c77a73c879f9052411.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c40bac2b69ec8804fef6f8c77a73c879f9052411.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='cb0098a6167aabb9518b948bb682db38fa790032258'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\restorelocation.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/restorelocation.png)
@@ -4291,11 +4291,11 @@
 * Handoff File: [cb0098a6167aabb9518b948bb682db38fa790032.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/cb0098a6167aabb9518b948bb682db38fa790032.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='a068cccbcb4856c2a88243ac324d7877ab46fbc6259'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\result.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-restore-windows-server/result.png)
@@ -4304,11 +4304,11 @@
 * Handoff File: [a068cccbcb4856c2a88243ac324d7877ab46fbc6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/a068cccbcb4856c2a88243ac324d7877ab46fbc6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-backup-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='f142a709ca0e8f50ed466b2e2eeed5c18bcd19fb260'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\samemachine.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/samemachine.png)
@@ -4317,11 +4317,11 @@
 * Handoff File: [f142a709ca0e8f50ed466b2e2eeed5c18bcd19fb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f142a709ca0e8f50ed466b2e2eeed5c18bcd19fb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='7507eefe6213a9d61d5b36180eb12e0aa983dc0f261'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\schedulebackup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-restore-windows-server/schedulebackup.png)
@@ -4342,11 +4342,11 @@
 * Handoff File: [8c4fda14ec959a55e4d7f2548783ab1d56ec33f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8c4fda14ec959a55e4d7f2548783ab1d56ec33f0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='c03e818ce5de0393bbe69839ac071eb67a6608f3263'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\searchitems.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/searchitems.png)
@@ -4355,11 +4355,11 @@
 * Handoff File: [c03e818ce5de0393bbe69839ac071eb67a6608f3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c03e818ce5de0393bbe69839ac071eb67a6608f3.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='c5319ac228a817a5348fca9123fc2555f040a88e264'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\selectfiles.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/selectfiles.png)
@@ -4368,11 +4368,11 @@
 * Handoff File: [c5319ac228a817a5348fca9123fc2555f040a88e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c5319ac228a817a5348fca9123fc2555f040a88e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='8345d605f6b452cb00ec46410ff81b70ac06218b265'></a> Source: [Acom\articles\backup\media\backup-azure-restore-windows-server\volanddate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-restore-windows-server/volanddate.png)
@@ -4381,11 +4381,11 @@
 * Handoff File: [8345d605f6b452cb00ec46410ff81b70ac06218b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8345d605f6b452cb00ec46410ff81b70ac06218b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-restore-windows-server.md
 * [Back to Top](#report-top)
 
 ##### <a name='fbe827b82c28309f100316c4d254c57bc28086d5348'></a> Source: [Acom\articles\backup\media\backup-azure-vms\3-steps-for-backup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/3-steps-for-backup.png)
@@ -4394,11 +4394,11 @@
 * Handoff File: [fbe827b82c28309f100316c4d254c57bc28086d5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fbe827b82c28309f100316c4d254c57bc28086d5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='1f9ffd186727f62ca8928a6b5136d056314d4113349'></a> Source: [Acom\articles\backup\media\backup-azure-vms\choose-vault-list.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/choose-vault-list.png)
@@ -4407,11 +4407,11 @@
 * Handoff File: [1f9ffd186727f62ca8928a6b5136d056314d4113.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/1f9ffd186727f62ca8928a6b5136d056314d4113.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='f0f86d07d3e350cf79ed4630813e1cfceb12a480350'></a> Source: [Acom\articles\backup\media\backup-azure-vms\dashboard-protectedvms.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms/dashboard-protectedvms.png)
@@ -4420,11 +4420,11 @@
 * Handoff File: [f0f86d07d3e350cf79ed4630813e1cfceb12a480.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f0f86d07d3e350cf79ed4630813e1cfceb12a480.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-vms.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='8a7987a05aa52dbe11883b91396204c5a6c363f8352'></a> Source: [Acom\articles\backup\media\backup-azure-vms\discover-button_old.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms/discover-button_old.png)
@@ -4445,11 +4445,11 @@
 * Handoff File: [4c585d2b575178deeb4beb4b24a589c83a7a21e7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4c585d2b575178deeb4beb4b24a589c83a7a21e7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='d7c05cd66f06342eca71bd7fdc05a297ba93e26c353'></a> Source: [Acom\articles\backup\media\backup-azure-vms\discovering-vms.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/discovering-vms.png)
@@ -4458,11 +4458,11 @@
 * Handoff File: [d7c05cd66f06342eca71bd7fdc05a297ba93e26c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d7c05cd66f06342eca71bd7fdc05a297ba93e26c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='12f30377661a12001cf5f579380eb7bf2694807a354'></a> Source: [Acom\articles\backup\media\backup-azure-vms\discovery-complete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/discovery-complete.png)
@@ -4471,11 +4471,11 @@
 * Handoff File: [12f30377661a12001cf5f579380eb7bf2694807a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/12f30377661a12001cf5f579380eb7bf2694807a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='c48aa399ce9c97887e9e54a65ecbd6db5dfa4106355'></a> Source: [Acom\articles\backup\media\backup-azure-vms\discovery-select-workload.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/discovery-select-workload.png)
@@ -4484,11 +4484,11 @@
 * Handoff File: [c48aa399ce9c97887e9e54a65ecbd6db5dfa4106.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c48aa399ce9c97887e9e54a65ecbd6db5dfa4106.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='0195bb337c8b2c6de0a1684bc5b3a1b10fedd0c8356'></a> Source: [Acom\articles\backup\media\backup-azure-vms\long-term-retention.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/long-term-retention.png)
@@ -4497,11 +4497,11 @@
 * Handoff File: [0195bb337c8b2c6de0a1684bc5b3a1b10fedd0c8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/0195bb337c8b2c6de0a1684bc5b3a1b10fedd0c8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='ff05c605b22019e0876bc3ef3657041de58e1e9e357'></a> Source: [Acom\articles\backup\media\backup-azure-vms\policy-retention.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/policy-retention.png)
@@ -4510,11 +4510,11 @@
 * Handoff File: [ff05c605b22019e0876bc3ef3657041de58e1e9e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ff05c605b22019e0876bc3ef3657041de58e1e9e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='84deca047c1c47c1ea11dd97e28e207474e5be48358'></a> Source: [Acom\articles\backup\media\backup-azure-vms\policy-schedule.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/policy-schedule.png)
@@ -4523,11 +4523,11 @@
 * Handoff File: [84deca047c1c47c1ea11dd97e28e207474e5be48.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/84deca047c1c47c1ea11dd97e28e207474e5be48.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='f3adca44c5fd774bd5be95cc005bbbe3c4791600359'></a> Source: [Acom\articles\backup\media\backup-azure-vms\protect-at-scale.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/protect-at-scale.png)
@@ -4536,11 +4536,11 @@
 * Handoff File: [f3adca44c5fd774bd5be95cc005bbbe3c4791600.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/f3adca44c5fd774bd5be95cc005bbbe3c4791600.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='fd2a9634b17b34d8d89517ecfad7e0ba170ed6ce360'></a> Source: [Acom\articles\backup\media\backup-azure-vms\protect-backedupvm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/protect-backedupvm.png)
@@ -4549,11 +4549,11 @@
 * Handoff File: [fd2a9634b17b34d8d89517ecfad7e0ba170ed6ce.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fd2a9634b17b34d8d89517ecfad7e0ba170ed6ce.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='2dbd30941725aaf0d261685bb258f9dca56f91e6361'></a> Source: [Acom\articles\backup\media\backup-azure-vms\protect-configureprotection.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/protect-configureprotection.png)
@@ -4562,11 +4562,11 @@
 * Handoff File: [2dbd30941725aaf0d261685bb258f9dca56f91e6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/2dbd30941725aaf0d261685bb258f9dca56f91e6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='6654c5666a13b63b56b4e2d40495792cad63f1a5362'></a> Source: [Acom\articles\backup\media\backup-azure-vms\protect-configureprotection_old.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms/protect-configureprotection_old.png)
@@ -4587,11 +4587,11 @@
 * Handoff File: [fa90b58f7869e5f2770edd16d18f114567aa0ebc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fa90b58f7869e5f2770edd16d18f114567aa0ebc.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='4b61b99a61837e48c8fd992e41f09d0a1f0a3770365'></a> Source: [Acom\articles\backup\media\backup-azure-vms\register-button_old.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms/register-button_old.png)
@@ -4612,11 +4612,11 @@
 * Handoff File: [72eb9a1ca863954473ee01da8c1f0997c4f5c616.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/72eb9a1ca863954473ee01da8c1f0997c4f5c616.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='122f98fd108c64b173b113b699a0fa3ac3ad9441366'></a> Source: [Acom\articles\backup\media\backup-azure-vms\register-create-job.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/register-create-job.png)
@@ -4625,11 +4625,11 @@
 * Handoff File: [122f98fd108c64b173b113b699a0fa3ac3ad9441.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/122f98fd108c64b173b113b699a0fa3ac3ad9441.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='e3ba4aba528c3c817b1d358fc92a589729fca4a2367'></a> Source: [Acom\articles\backup\media\backup-azure-vms\register-status01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/register-status01.png)
@@ -4638,11 +4638,11 @@
 * Handoff File: [e3ba4aba528c3c817b1d358fc92a589729fca4a2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e3ba4aba528c3c817b1d358fc92a589729fca4a2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='d21ccb3c4e310c256552a07c134dd4e2a069e1b8368'></a> Source: [Acom\articles\backup\media\backup-azure-vms\register-status02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/register-status02.png)
@@ -4651,11 +4651,11 @@
 * Handoff File: [d21ccb3c4e310c256552a07c134dd4e2a069e1b8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d21ccb3c4e310c256552a07c134dd4e2a069e1b8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='22eaabf05811d4b7f0fd446304d0747df6600f81369'></a> Source: [Acom\articles\backup\media\backup-azure-vms\select-workload.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/select-workload.png)
@@ -4664,11 +4664,11 @@
 * Handoff File: [22eaabf05811d4b7f0fd446304d0747df6600f81.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/22eaabf05811d4b7f0fd446304d0747df6600f81.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='d91be850e882c3235d571172fdf000e5e00810de370'></a> Source: [Acom\articles\backup\media\backup-azure-vms\vault-menu.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/vault-menu.png)
@@ -4677,11 +4677,11 @@
 * Handoff File: [d91be850e882c3235d571172fdf000e5e00810de.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d91be850e882c3235d571172fdf000e5e00810de.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='63dcd0351212fbaa1cb47059af16ab4888284196371'></a> Source: [Acom\articles\backup\media\backup-azure-vms\vault-quick-start.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms/vault-quick-start.png)
@@ -4690,11 +4690,11 @@
 * Handoff File: [63dcd0351212fbaa1cb47059af16ab4888284196.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/63dcd0351212fbaa1cb47059af16ab4888284196.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='4feecbb58e1aa2134a1f33ddc06fb1513c5aa205266'></a> Source: [Acom\articles\backup\media\backup-azure-vms-automation\object-hierarchy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-automation/object-hierarchy.png)
@@ -4715,11 +4715,11 @@
 * Handoff File: [3d1dde05a3cfecb1725c02f3d9c8206be69701e4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3d1dde05a3cfecb1725c02f3d9c8206be69701e4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-encryption.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-encryption.md
 * [Back to Top](#report-top)
 
 ##### <a name='92a11928b3cea21752455293959b8c11b794eeba298'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\active-vault-demo.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/active-vault-demo.png)
@@ -4728,11 +4728,11 @@
 * Handoff File: [92a11928b3cea21752455293959b8c11b794eeba.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/92a11928b3cea21752455293959b8c11b794eeba.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='887e5d584923357711a3a412b364157123f911db303'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\BackupAzureVM.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/BackupAzureVM.png)
@@ -4741,11 +4741,11 @@
 * Handoff File: [887e5d584923357711a3a412b364157123f911db.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/887e5d584923357711a3a412b364157123f911db.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='fe8d71fcc1eb3e0b966661bec2389403bd203e71299'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\backup-now-icon.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/backup-now-icon.png)
@@ -4754,11 +4754,11 @@
 * Handoff File: [fe8d71fcc1eb3e0b966661bec2389403bd203e71.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/fe8d71fcc1eb3e0b966661bec2389403bd203e71.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='84c28bbeaed01d552154621e204d34f34893d88b302'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\backup-vaultcreate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/backup-vaultcreate.png)
@@ -4767,11 +4767,11 @@
 * Handoff File: [84c28bbeaed01d552154621e204d34f34893d88b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/84c28bbeaed01d552154621e204d34f34893d88b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='12b09ea5d3f446362298d1d0613bf368c8e90171301'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\backup-vault-storage-options.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/backup-vault-storage-options.png)
@@ -4792,11 +4792,11 @@
 * Handoff File: [a99a25246731bc9cdf21e7eeacda245860982253.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/a99a25246731bc9cdf21e7eeacda245860982253.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='9a7c210a56fa08185da6a8ae351ee88dbb50cdef304'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\checkmark-ok.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/checkmark-ok.png)
@@ -4817,11 +4817,11 @@
 * Handoff File: [bc0b389d47bf454e8479fee8084cb83745f875f1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/bc0b389d47bf454e8479fee8084cb83745f875f1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='5be43d343924ec72035c5bccc138084c2e2675aa307'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\create-vault-demo.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/create-vault-demo.png)
@@ -4830,11 +4830,11 @@
 * Handoff File: [5be43d343924ec72035c5bccc138084c2e2675aa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/5be43d343924ec72035c5bccc138084c2e2675aa.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='a735ab2c29e79716ebee0e9d74a1872c19c35739306'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\create-vault-demo-success.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/create-vault-demo-success.png)
@@ -4843,11 +4843,11 @@
 * Handoff File: [a735ab2c29e79716ebee0e9d74a1872c19c35739.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/a735ab2c29e79716ebee0e9d74a1872c19c35739.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205308'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\creating-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/creating-vault.png)
@@ -4856,11 +4856,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='587c0b52855eec6506f26762e4419d67a3728728309'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\discovery-complete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/discovery-complete.png)
@@ -4869,11 +4869,11 @@
 * Handoff File: [587c0b52855eec6506f26762e4419d67a3728728.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/587c0b52855eec6506f26762e4419d67a3728728.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='19925afd36a6263b49f3769c083e5d766aeca3a7310'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\firewall-01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/firewall-01.png)
@@ -4882,11 +4882,11 @@
 * Handoff File: [19925afd36a6263b49f3769c083e5d766aeca3a7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/19925afd36a6263b49f3769c083e5d766aeca3a7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='155b8d9d9c41ff2916a1307f8f17388e83f6fb5d311'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\firewall-02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/firewall-02.png)
@@ -4895,11 +4895,11 @@
 * Handoff File: [155b8d9d9c41ff2916a1307f8f17388e83f6fb5d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/155b8d9d9c41ff2916a1307f8f17388e83f6fb5d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='99c453203dbcb92f207b46ec01f8fb7411edb4d7312'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\firewall-03.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/firewall-03.png)
@@ -4908,11 +4908,11 @@
 * Handoff File: [99c453203dbcb92f207b46ec01f8fb7411edb4d7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/99c453203dbcb92f207b46ec01f8fb7411edb4d7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='687536854c898e5b1a38d369c7bb23b6d9d301f0313'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\Ibiza-portal-backup01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/Ibiza-portal-backup01.png)
@@ -4921,11 +4921,11 @@
 * Handoff File: [687536854c898e5b1a38d369c7bb23b6d9d301f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/687536854c898e5b1a38d369c7bb23b6d9d301f0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='97765719ae705556f0dff6ef55967f31ca84877f314'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\nsg-with-http-proxy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/nsg-with-http-proxy.png)
@@ -4934,11 +4934,11 @@
 * Handoff File: [97765719ae705556f0dff6ef55967f31ca84877f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/97765719ae705556f0dff6ef55967f31ca84877f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='bd8f17be75d2fd3c47b34234e86a4e72c73cda3f315'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\protect-icon.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/protect-icon.png)
@@ -4947,11 +4947,11 @@
 * Handoff File: [bd8f17be75d2fd3c47b34234e86a4e72c73cda3f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/bd8f17be75d2fd3c47b34234e86a4e72c73cda3f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='a1f7d818aaa0c5679f351c5bd6e749a265dc31df316'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\protect-inprogress.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/protect-inprogress.png)
@@ -4960,11 +4960,11 @@
 * Handoff File: [a1f7d818aaa0c5679f351c5bd6e749a265dc31df.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/a1f7d818aaa0c5679f351c5bd6e749a265dc31df.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='9eca59974a4cf2f1b3a362aa3719d7f3635c8415318'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\protection-pending.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/protection-pending.png)
@@ -4985,11 +4985,11 @@
 * Handoff File: [747eb41f35db7b4ba4ef4715469215253366a103.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/747eb41f35db7b4ba4ef4715469215253366a103.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='8d4c77d9af336799ca71dfdd542f69172ca974ae319'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\recovery-services-icon.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/recovery-services-icon.png)
@@ -4998,11 +4998,11 @@
 * Handoff File: [8d4c77d9af336799ca71dfdd542f69172ca974ae.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/8d4c77d9af336799ca71dfdd542f69172ca974ae.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='7bc15525b5520a77e3f19109b5b8970eebf38f01320'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\register-icon.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look/register-icon.png)
@@ -5011,11 +5011,11 @@
 * Handoff File: [7bc15525b5520a77e3f19109b5b8970eebf38f01.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/7bc15525b5520a77e3f19109b5b8970eebf38f01.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md
 * [Back to Top](#report-top)
 
 ##### <a name='4c3c99d2616cad9949bc64e91f16627cdd3bbde5321'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\rs-vault-in-dashboard-backup-vms.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/rs-vault-in-dashboard-backup-vms.png)
@@ -5096,11 +5096,11 @@
 * Handoff File: [d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4328'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look\vmbackup-instructions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look/vmbackup-instructions.png)
@@ -5109,11 +5109,11 @@
 * Handoff File: [bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='09024587e26f22bb6cd16009aaf958ea4d3371a9276'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\BackupAzureVMARM.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look-arm/BackupAzureVMARM.png)
@@ -5134,11 +5134,11 @@
 * Handoff File: [6526e8695cb6afffcf5711b813ebd756d52defc4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/6526e8695cb6afffcf5711b813ebd756d52defc4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='d1eb23e51569b6794d8c7191f13f218b6225b3aa270'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\backup-jobs-in-jobs-view.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/backup-jobs-in-jobs-view.png)
@@ -5147,11 +5147,11 @@
 * Handoff File: [d1eb23e51569b6794d8c7191f13f218b6225b3aa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/d1eb23e51569b6794d8c7191f13f218b6225b3aa.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='910638b6c715115974c5c1e7d83f5cb2f9f885d8268'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\back-up-now.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/back-up-now.png)
@@ -5160,11 +5160,11 @@
 * Handoff File: [910638b6c715115974c5c1e7d83f5cb2f9f885d8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/910638b6c715115974c5c1e7d83f5cb2f9f885d8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='ab57a54281afb79ee091c4e22fc5fb4134f8c61a274'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\backup-policy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look-arm/backup-policy.png)
@@ -5185,11 +5185,11 @@
 * Handoff File: [71266b1829959645f1431fc4e98ed874cad6ec61.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/71266b1829959645f1431fc4e98ed874cad6ec61.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='6bfb1471eb96b7c39e261cdba3a7b7e9f4eda91f271'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\backup-policy-daily-raw.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/backup-policy-daily-raw.png)
@@ -5198,11 +5198,11 @@
 * Handoff File: [6bfb1471eb96b7c39e261cdba3a7b7e9f4eda91f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/6bfb1471eb96b7c39e261cdba3a7b7e9f4eda91f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='1aededba35c77c57773161b275ec96a3565fef7e273'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\backup-policy-weekly.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/backup-policy-weekly.png)
@@ -5211,11 +5211,11 @@
 * Handoff File: [1aededba35c77c57773161b275ec96a3565fef7e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/1aededba35c77c57773161b275ec96a3565fef7e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='bce3c8a56ccc2aa0fc67361c691081b112ef873c275'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\backup-triggered.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/backup-triggered.png)
@@ -5224,11 +5224,11 @@
 * Handoff File: [bce3c8a56ccc2aa0fc67361c691081b112ef873c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/bce3c8a56ccc2aa0fc67361c691081b112ef873c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='c707e8f47a40bce450e9142f55acb621fdaa9793277'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\browse-to-rs-vaults.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/browse-to-rs-vaults.png)
@@ -5237,11 +5237,11 @@
 * Handoff File: [c707e8f47a40bce450e9142f55acb621fdaa9793.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/c707e8f47a40bce450e9142f55acb621fdaa9793.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='1fe087e94c9f254905365314cd7b0b3c41be16f4278'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\choose-storage-configuration.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/choose-storage-configuration.png)
@@ -5250,11 +5250,11 @@
 * Handoff File: [1fe087e94c9f254905365314cd7b0b3c41be16f4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/1fe087e94c9f254905365314cd7b0b3c41be16f4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='de5fdeff900d0a4982b593581661291a6de6dbc0279'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\create-rs-vault-button.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look-arm/create-rs-vault-button.png)
@@ -5275,11 +5275,11 @@
 * Handoff File: [0a251ab64976ef18712e8dc70f88d3153f61b429.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/0a251ab64976ef18712e8dc70f88d3153f61b429.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='0c35cc17b090f27a2b4f1358cfb60197b0bf7153281'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\enable-backup-settings.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/enable-backup-settings.png)
@@ -5288,11 +5288,11 @@
 * Handoff File: [0c35cc17b090f27a2b4f1358cfb60197b0bf7153.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/0c35cc17b090f27a2b4f1358cfb60197b0bf7153.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='de30550885433b5dd5e6ced5c67b0f9c75cdffe8282'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\initial-backup-not-run.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/initial-backup-not-run.png)
@@ -5301,11 +5301,11 @@
 * Handoff File: [de30550885433b5dd5e6ced5c67b0f9c75cdffe8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/de30550885433b5dd5e6ced5c67b0f9c75cdffe8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='4e4dd07f4e3cb78514028a0fcb24fcc23959e180283'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\link-to-recovery-services-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look-arm/link-to-recovery-services-vault.png)
@@ -5326,11 +5326,11 @@
 * Handoff File: [a2767d19ec417027bca5385e25b463f17a71daa7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/a2767d19ec417027bca5385e25b463f17a71daa7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='2128a4e20a9ca9c2aa70ab5a87819b4b486f8235285'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\path-to-rs-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look-arm/path-to-rs-vault.png)
@@ -5351,11 +5351,11 @@
 * Handoff File: [b8181dee84738bf982cc86328bd201c251413e1f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/b8181dee84738bf982cc86328bd201c251413e1f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='9542134c3842a205b8b23aa19d00704d8c54181c288'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-in-dashboard.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-in-dashboard.png)
@@ -5376,11 +5376,11 @@
 * Handoff File: [b87d2903db60e67010bd587bea5a69ead6135ed2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/b87d2903db60e67010bd587bea5a69ead6135ed2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='0b43734e0b88f5870816f0b140e53ab7d6964de3289'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-menu.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-menu.png)
@@ -5389,11 +5389,11 @@
 * Handoff File: [0b43734e0b88f5870816f0b140e53ab7d6964de3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/0b43734e0b88f5870816f0b140e53ab7d6964de3.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='b751a5024aa3f8400570922e0e3bc1439d44af6c290'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\select-backup-scenario-one.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/select-backup-scenario-one.png)
@@ -5402,11 +5402,11 @@
 * Handoff File: [b751a5024aa3f8400570922e0e3bc1439d44af6c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/b751a5024aa3f8400570922e0e3bc1439d44af6c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='e2a2bdbeeb2ce59ee87ced8bbd74ec31582ab791291'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\select-rs-backup-scenario-two.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/select-rs-backup-scenario-two.png)
@@ -5415,11 +5415,11 @@
 * Handoff File: [e2a2bdbeeb2ce59ee87ced8bbd74ec31582ab791.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/e2a2bdbeeb2ce59ee87ced8bbd74ec31582ab791.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='1cb3d55beaf83391290e3738ead23390a1bb8b91292'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\select-vms-to-backup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/select-vms-to-backup.png)
@@ -5428,11 +5428,11 @@
 * Handoff File: [1cb3d55beaf83391290e3738ead23390a1bb8b91.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/1cb3d55beaf83391290e3738ead23390a1bb8b91.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='231dd2aed698f5238d25d182e6e7ace0b8afc5d8293'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\setting-rs-backup-policy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-first-look-arm/setting-rs-backup-policy.png)
@@ -5441,11 +5441,11 @@
 * Handoff File: [231dd2aed698f5238d25d182e6e7ace0b8afc5d8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/231dd2aed698f5238d25d182e6e7ace0b8afc5d8.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='32dcb37542e0dbfbb82fd7c17d7d03fa74203602294'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\settings-icon.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-first-look-arm/settings-icon.png)
@@ -5490,11 +5490,11 @@
 * Handoff File: [27d1837fe24162a178eafd5befa058b2c55217f1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/27d1837fe24162a178eafd5befa058b2c55217f1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
 ##### <a name='bf5789cedd12f4a2f2c5d0af5e5373089c9796ef329'></a> Source: [Acom\articles\backup\media\backup-azure-vms-introduction\backup_vaultcreate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-introduction/backup_vaultcreate.png)
@@ -5503,11 +5503,11 @@
 * Handoff File: [bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='48715dc04022a17520f42755b3fc28d8b50f9d85330'></a> Source: [Acom\articles\backup\media\backup-azure-vms-introduction\backup_vaultslist.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-introduction/backup_vaultslist.png)
@@ -5516,11 +5516,11 @@
 * Handoff File: [48715dc04022a17520f42755b3fc28d8b50f9d85.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/48715dc04022a17520f42755b3fc28d8b50f9d85.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205331'></a> Source: [Acom\articles\backup\media\backup-azure-vms-introduction\creating-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-introduction/creating-vault.png)
@@ -5529,11 +5529,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754332'></a> Source: [Acom\articles\backup\media\backup-azure-vms-introduction\vault-policy-vm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-introduction/vault-policy-vm.png)
@@ -5542,11 +5542,11 @@
 * Handoff File: [d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='4b7159c94e8c674cc53f357d2780cea2b1db630f333'></a> Source: [Acom\articles\backup\media\backup-azure-vms-introduction\vmbackup-architecture.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-introduction/vmbackup-architecture.png)
@@ -5555,11 +5555,11 @@
 * Handoff File: [4b7159c94e8c674cc53f357d2780cea2b1db630f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4b7159c94e8c674cc53f357d2780cea2b1db630f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-introduction.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-introduction.md
 * [Back to Top](#report-top)
 
 ##### <a name='bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4334'></a> Source: [Acom\articles\backup\media\backup-azure-vms-introduction\vmbackup-instructions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-introduction/vmbackup-instructions.png)
@@ -5568,11 +5568,11 @@
 * Handoff File: [bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='bf5789cedd12f4a2f2c5d0af5e5373089c9796ef335'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\backup_vaultcreate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-prepare/backup_vaultcreate.png)
@@ -5581,11 +5581,11 @@
 * Handoff File: [bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='48715dc04022a17520f42755b3fc28d8b50f9d85336'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\backup_vaultslist.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-prepare/backup_vaultslist.png)
@@ -5594,11 +5594,11 @@
 * Handoff File: [48715dc04022a17520f42755b3fc28d8b50f9d85.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/48715dc04022a17520f42755b3fc28d8b50f9d85.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205337'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\creating-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-prepare/creating-vault.png)
@@ -5607,11 +5607,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='19925afd36a6263b49f3769c083e5d766aeca3a7338'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\firewall-01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-prepare/firewall-01.png)
@@ -5620,11 +5620,11 @@
 * Handoff File: [19925afd36a6263b49f3769c083e5d766aeca3a7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/19925afd36a6263b49f3769c083e5d766aeca3a7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='155b8d9d9c41ff2916a1307f8f17388e83f6fb5d339'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\firewall-02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-prepare/firewall-02.png)
@@ -5633,11 +5633,11 @@
 * Handoff File: [155b8d9d9c41ff2916a1307f8f17388e83f6fb5d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/155b8d9d9c41ff2916a1307f8f17388e83f6fb5d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='99c453203dbcb92f207b46ec01f8fb7411edb4d7340'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\firewall-03.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-prepare/firewall-03.png)
@@ -5646,11 +5646,11 @@
 * Handoff File: [99c453203dbcb92f207b46ec01f8fb7411edb4d7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/99c453203dbcb92f207b46ec01f8fb7411edb4d7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='687536854c898e5b1a38d369c7bb23b6d9d301f0341'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\Ibiza-portal-backup01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-prepare/Ibiza-portal-backup01.png)
@@ -5659,11 +5659,11 @@
 * Handoff File: [687536854c898e5b1a38d369c7bb23b6d9d301f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/687536854c898e5b1a38d369c7bb23b6d9d301f0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='97765719ae705556f0dff6ef55967f31ca84877f342'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\nsg-with-http-proxy.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-prepare/nsg-with-http-proxy.png)
@@ -5672,11 +5672,11 @@
 * Handoff File: [97765719ae705556f0dff6ef55967f31ca84877f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/97765719ae705556f0dff6ef55967f31ca84877f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md
 * [Back to Top](#report-top)
 
 ##### <a name='2f84f949d2158518515e376b1e2a7b86dc6bceb1343'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\step1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-azure-vms-prepare/step1.png)
@@ -5721,11 +5721,11 @@
 * Handoff File: [d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4347'></a> Source: [Acom\articles\backup\media\backup-azure-vms-prepare\vmbackup-instructions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-azure-vms-prepare/vmbackup-instructions.png)
@@ -5734,11 +5734,11 @@
 * Handoff File: [bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='e63195d0b5f02b1e973a7e8e2dd393c0dac6131e372'></a> Source: [Acom\articles\backup\media\backup-client-automation\installed-agent-listing.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-client-automation/installed-agent-listing.png)
@@ -5747,11 +5747,11 @@
 * Handoff File: [e63195d0b5f02b1e973a7e8e2dd393c0dac6131e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e63195d0b5f02b1e973a7e8e2dd393c0dac6131e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-client-automation.md, Acom\articles\backup\backup-dpm-automation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-client-automation.md, Acom\articles\backup\backup-dpm-automation.md
 * [Back to Top](#report-top)
 
 ##### <a name='58872808d3d1568dceed80fa0897daf0f17c12d4373'></a> Source: [Acom\articles\backup\media\backup-configure-vault\agent.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/agent.png)
@@ -5760,11 +5760,11 @@
 * Handoff File: [58872808d3d1568dceed80fa0897daf0f17c12d4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/58872808d3d1568dceed80fa0897daf0f17c12d4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='04926c106b8447a229004ff8d886b4f16f9915d7374'></a> Source: [Acom\articles\backup\media\backup-configure-vault\backup-now.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/backup-now.png)
@@ -5773,11 +5773,11 @@
 * Handoff File: [04926c106b8447a229004ff8d886b4f16f9915d7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/04926c106b8447a229004ff8d886b4f16f9915d7.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='4fdbe5c9f065baa57e9741b862f69cb2bf4e9394375'></a> Source: [Acom\articles\backup\media\backup-configure-vault\change-properties.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/change-properties.png)
@@ -5786,11 +5786,11 @@
 * Handoff File: [4fdbe5c9f065baa57e9741b862f69cb2bf4e9394.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/4fdbe5c9f065baa57e9741b862f69cb2bf4e9394.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='472cc94baa6e348163a6e170f43b85a5d2a9fca5376'></a> Source: [Acom\articles\backup\media\backup-configure-vault\configure-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/configure-vault.png)
@@ -5799,11 +5799,11 @@
 * Handoff File: [472cc94baa6e348163a6e170f43b85a5d2a9fca5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/472cc94baa6e348163a6e170f43b85a5d2a9fca5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='d889a79abff74fa78f4e40ed968e19902df3aee1377'></a> Source: [Acom\articles\backup\media\backup-configure-vault\demo-vault-name.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/demo-vault-name.png)
@@ -5812,11 +5812,11 @@
 * Handoff File: [d889a79abff74fa78f4e40ed968e19902df3aee1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/d889a79abff74fa78f4e40ed968e19902df3aee1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='ffbaaae96228f106bcd407c0158bb6c5e1661842378'></a> Source: [Acom\articles\backup\media\backup-configure-vault\initial-backup-process.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/initial-backup-process.png)
@@ -5825,11 +5825,11 @@
 * Handoff File: [ffbaaae96228f106bcd407c0158bb6c5e1661842.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/ffbaaae96228f106bcd407c0158bb6c5e1661842.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='6c9a3cf203e691d430314c5b8cd795a77b76c180379'></a> Source: [Acom\articles\backup\media\backup-configure-vault\ircomplete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/ircomplete.png)
@@ -5838,11 +5838,11 @@
 * Handoff File: [6c9a3cf203e691d430314c5b8cd795a77b76c180.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6c9a3cf203e691d430314c5b8cd795a77b76c180.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='9956b53f857eba21a29af71a8f74e731c334c35f380'></a> Source: [Acom\articles\backup\media\backup-configure-vault\recovery-services-select-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/recovery-services-select-vault.png)
@@ -5851,11 +5851,11 @@
 * Handoff File: [9956b53f857eba21a29af71a8f74e731c334c35f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/9956b53f857eba21a29af71a8f74e731c334c35f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='72089b1e95c10c407ba497164f37293482645afb381'></a> Source: [Acom\articles\backup\media\backup-configure-vault\rs-left-nav.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-configure-vault/rs-left-nav.png)
@@ -5864,11 +5864,11 @@
 * Handoff File: [72089b1e95c10c407ba497164f37293482645afb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/72089b1e95c10c407ba497164f37293482645afb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='039f32e6a0e3c646e1fe4d7844595a079be26f6e382'></a> Source: [Acom\articles\backup\media\backup-configure-vault\schedule-backup-close.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/schedule-backup-close.png)
@@ -5877,11 +5877,11 @@
 * Handoff File: [039f32e6a0e3c646e1fe4d7844595a079be26f6e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/039f32e6a0e3c646e1fe4d7844595a079be26f6e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='35b69006f2655b60b96418c2154bd7341f30d2ea383'></a> Source: [Acom\articles\backup\media\backup-configure-vault\snap-in-search.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-configure-vault/snap-in-search.png)
@@ -5890,11 +5890,11 @@
 * Handoff File: [35b69006f2655b60b96418c2154bd7341f30d2ea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/35b69006f2655b60b96418c2154bd7341f30d2ea.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='28a813f7786aab8445adf07e2a6fb9a3fa67a953384'></a> Source: [Acom\articles\backup\media\backup-configure-vault\specify-backup-schedule-close.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-configure-vault/specify-backup-schedule-close.png)
@@ -5903,11 +5903,11 @@
 * Handoff File: [28a813f7786aab8445adf07e2a6fb9a3fa67a953.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/28a813f7786aab8445adf07e2a6fb9a3fa67a953.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='b8f455532021e08f057799c212e97bb066853900385'></a> Source: [Acom\articles\backup\media\backup-configure-vault\throttling-dialog.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-configure-vault/throttling-dialog.png)
@@ -5916,11 +5916,11 @@
 * Handoff File: [b8f455532021e08f057799c212e97bb066853900.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b8f455532021e08f057799c212e97bb066853900.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-manage-windows-server.md, Acom\articles\backup\backup-configure-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='e63195d0b5f02b1e973a7e8e2dd393c0dac6131e386'></a> Source: [Acom\articles\backup\media\backup-dpm-automation\installed-agent-listing.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-dpm-automation/installed-agent-listing.png)
@@ -5929,11 +5929,11 @@
 * Handoff File: [e63195d0b5f02b1e973a7e8e2dd393c0dac6131e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/e63195d0b5f02b1e973a7e8e2dd393c0dac6131e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-client-automation.md, Acom\articles\backup\backup-dpm-automation.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-client-automation.md, Acom\articles\backup\backup-dpm-automation.md
 * [Back to Top](#report-top)
 
 ##### <a name='ad34394771dda78cacbfd59c02bba83c712a1f5f387'></a> Source: [Acom\articles\backup\media\backup-introduction-to-azure-backup\azure-backup-overview.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-introduction-to-azure-backup/azure-backup-overview.png)
@@ -5954,11 +5954,11 @@
 * Handoff File: [ff2e8af5cfbaefe75773e986aae85e6a13546cd5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/ff2e8af5cfbaefe75773e986aae85e6a13546cd5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-introduction-to-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-introduction-to-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='6db0c1bb3d9bcb10b4311051b3a88cf6c8ea0c7a389'></a> Source: [Acom\articles\backup\media\backup-introduction-to-azure-backup\red.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-introduction-to-azure-backup/red.png)
@@ -5991,11 +5991,11 @@
 * Handoff File: [4d516925d461e2dbbfc87c3523a02813892641d4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/4d516925d461e2dbbfc87c3523a02813892641d4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-introduction-to-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-introduction-to-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='d92935bf28e65bdf11786b2d0ae3cd82e12669da392'></a> Source: [Acom\articles\backup\media\backup-introduction-to-azure-backup\yellow.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-introduction-to-azure-backup/yellow.png)
@@ -6004,11 +6004,11 @@
 * Handoff File: [d92935bf28e65bdf11786b2d0ae3cd82e12669da.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/d92935bf28e65bdf11786b2d0ae3cd82e12669da.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-introduction-to-azure-backup.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-introduction-to-azure-backup.md
 * [Back to Top](#report-top)
 
 ##### <a name='58872808d3d1568dceed80fa0897daf0f17c12d4393'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\agent.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/agent.png)
@@ -6017,11 +6017,11 @@
 * Handoff File: [58872808d3d1568dceed80fa0897daf0f17c12d4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/58872808d3d1568dceed80fa0897daf0f17c12d4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='9e863c3c3aa5a20808900e00571c06799263c76a394'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\backup-now.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/backup-now.png)
@@ -6030,11 +6030,11 @@
 * Handoff File: [9e863c3c3aa5a20808900e00571c06799263c76a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/9e863c3c3aa5a20808900e00571c06799263c76a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='472cc94baa6e348163a6e170f43b85a5d2a9fca5395'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\configure-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/configure-vault.png)
@@ -6043,11 +6043,11 @@
 * Handoff File: [472cc94baa6e348163a6e170f43b85a5d2a9fca5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/472cc94baa6e348163a6e170f43b85a5d2a9fca5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='d889a79abff74fa78f4e40ed968e19902df3aee1396'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\demo-vault-name.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/demo-vault-name.png)
@@ -6056,11 +6056,11 @@
 * Handoff File: [d889a79abff74fa78f4e40ed968e19902df3aee1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/d889a79abff74fa78f4e40ed968e19902df3aee1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='06b5ddb980d451026ab919d54c98000f04323941397'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\geo-redundant.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/geo-redundant.png)
@@ -6069,11 +6069,11 @@
 * Handoff File: [06b5ddb980d451026ab919d54c98000f04323941.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/06b5ddb980d451026ab919d54c98000f04323941.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='605e535fe96ee95d4b819f09a352c8e0125d7ebb398'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\ircomplete.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/ircomplete.png)
@@ -6082,11 +6082,11 @@
 * Handoff File: [605e535fe96ee95d4b819f09a352c8e0125d7ebb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/605e535fe96ee95d4b819f09a352c8e0125d7ebb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='41bdbb95e3f3eaead269ef1503c9237437a47a21399'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\quick-start-icon.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/quick-start-icon.png)
@@ -6095,11 +6095,11 @@
 * Handoff File: [41bdbb95e3f3eaead269ef1503c9237437a47a21.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/41bdbb95e3f3eaead269ef1503c9237437a47a21.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='9956b53f857eba21a29af71a8f74e731c334c35f400'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\recovery-services-select-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/recovery-services-select-vault.png)
@@ -6108,11 +6108,11 @@
 * Handoff File: [9956b53f857eba21a29af71a8f74e731c334c35f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/9956b53f857eba21a29af71a8f74e731c334c35f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-configure-vault.md, Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='c366697c951ef3f7b1d0aa82133b92008003fb87401'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\second-blade-backup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/second-blade-backup.png)
@@ -6121,11 +6121,11 @@
 * Handoff File: [c366697c951ef3f7b1d0aa82133b92008003fb87.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/c366697c951ef3f7b1d0aa82133b92008003fb87.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='deb29531c53c7e1c22f0c43cbf0ceebda6718873402'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\snap-in-schedule-backup-closeup.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/snap-in-schedule-backup-closeup.png)
@@ -6134,11 +6134,11 @@
 * Handoff File: [deb29531c53c7e1c22f0c43cbf0ceebda6718873.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/deb29531c53c7e1c22f0c43cbf0ceebda6718873.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='a1d90d11aa07dc643a3f122fd9fe8043517f6f98403'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\step-1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/step-1.png)
@@ -6147,11 +6147,11 @@
 * Handoff File: [a1d90d11aa07dc643a3f122fd9fe8043517f6f98.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/a1d90d11aa07dc643a3f122fd9fe8043517f6f98.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='dc9351b2a90f7600866b2a77b37bc6df20ed9784404'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\step-2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/step-2.png)
@@ -6160,11 +6160,11 @@
 * Handoff File: [dc9351b2a90f7600866b2a77b37bc6df20ed9784.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/dc9351b2a90f7600866b2a77b37bc6df20ed9784.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='91abd066b41fee9f3da1cda62370d959e0f04a4b405'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\step-3.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/step-3.png)
@@ -6173,11 +6173,11 @@
 * Handoff File: [91abd066b41fee9f3da1cda62370d959e0f04a4b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/91abd066b41fee9f3da1cda62370d959e0f04a4b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='8d56eb99a3abedb267d082a38b04309f91ae18ff406'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\step-4.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/step-4.png)
@@ -6186,11 +6186,11 @@
 * Handoff File: [8d56eb99a3abedb267d082a38b04309f91ae18ff.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/8d56eb99a3abedb267d082a38b04309f91ae18ff.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='60b3460ab3cca9e22e16eb3f7b3b87f7bebf77dc407'></a> Source: [Acom\articles\backup\media\backup-try-azure-backup-in-10-mins\windows-machine-backup-process.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/backup/media/backup-try-azure-backup-in-10-mins/windows-machine-backup-process.png)
@@ -6199,11 +6199,11 @@
 * Handoff File: [60b3460ab3cca9e22e16eb3f7b3b87f7bebf77dc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/60b3460ab3cca9e22e16eb3f7b3b87f7bebf77dc.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-try-azure-backup-in-10-mins.md
 * [Back to Top](#report-top)
 
 ##### <a name='4d822800e9ea3d3a1a2761246e86c04691c68e9d408'></a> Source: [Acom\articles\batch\batch-account-create-portal.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/batch-account-create-portal.md)
@@ -6392,11 +6392,11 @@
 * Handoff File: [9d9fb1633af4e5cd0ff5ae6c35a58e17f8da5312.PNG](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/9d9fb1633af4e5cd0ff5ae6c35a58e17f8da5312.PNG)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * [Back to Top](#report-top)
 
 ##### <a name='b6eef5e3c66b729692c386d18f0c4bec8837d385424'></a> Source: [Acom\articles\batch\media\batch-account-create-portal\batch_acct_03.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-account-create-portal/batch_acct_03.png)
@@ -6405,11 +6405,11 @@
 * Handoff File: [b6eef5e3c66b729692c386d18f0c4bec8837d385.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/b6eef5e3c66b729692c386d18f0c4bec8837d385.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * [Back to Top](#report-top)
 
 ##### <a name='72697911aeee50ade2d9c3a9443ccffa2328f883425'></a> Source: [Acom\articles\batch\media\batch-account-create-portal\batch_acct_04.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-account-create-portal/batch_acct_04.png)
@@ -6418,11 +6418,11 @@
 * Handoff File: [72697911aeee50ade2d9c3a9443ccffa2328f883.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/72697911aeee50ade2d9c3a9443ccffa2328f883.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * [Back to Top](#report-top)
 
 ##### <a name='2885f78c00fa316b546f1b034683e9e93c8eb84a426'></a> Source: [Acom\articles\batch\media\batch-account-create-portal\batch_acct_05.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-account-create-portal/batch_acct_05.png)
@@ -6431,11 +6431,11 @@
 * Handoff File: [2885f78c00fa316b546f1b034683e9e93c8eb84a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/2885f78c00fa316b546f1b034683e9e93c8eb84a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * [Back to Top](#report-top)
 
 ##### <a name='9483dec1dcd607004f619e21802451f9e32bcc35427'></a> Source: [Acom\articles\batch\media\batch-account-create-portal\batch_acct_portal.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-account-create-portal/batch_acct_portal.png)
@@ -6444,11 +6444,11 @@
 * Handoff File: [9483dec1dcd607004f619e21802451f9e32bcc35.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/9483dec1dcd607004f619e21802451f9e32bcc35.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * [Back to Top](#report-top)
 
 ##### <a name='416b5b0c026383f3fc38af945e51c0d491f31dc0428'></a> Source: [Acom\articles\batch\media\batch-account-create-portal\marketplace_batch.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-account-create-portal/marketplace_batch.PNG)
@@ -6457,11 +6457,11 @@
 * Handoff File: [416b5b0c026383f3fc38af945e51c0d491f31dc0.PNG](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/416b5b0c026383f3fc38af945e51c0d491f31dc0.PNG)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-account-create-portal.md
 * [Back to Top](#report-top)
 
 ##### <a name='425663d656b4e042e3094bab87380e64f8f2a1e9429'></a> Source: [Acom\articles\batch\media\batch-api-basics\node-folder-structure.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-api-basics/node-folder-structure.png)
@@ -6470,11 +6470,11 @@
 * Handoff File: [425663d656b4e042e3094bab87380e64f8f2a1e9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/425663d656b4e042e3094bab87380e64f8f2a1e9.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-api-basics.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-api-basics.md
 * [Back to Top](#report-top)
 
 ##### <a name='8e1f7985cb5baf817735119e425ff6cfdf21e613430'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_01.png)
@@ -6483,11 +6483,11 @@
 * Handoff File: [8e1f7985cb5baf817735119e425ff6cfdf21e613.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8e1f7985cb5baf817735119e425ff6cfdf21e613.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='c13dfe6afa4afa6903d1a84c8d91025b76631568431'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_02.png)
@@ -6496,11 +6496,11 @@
 * Handoff File: [c13dfe6afa4afa6903d1a84c8d91025b76631568.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c13dfe6afa4afa6903d1a84c8d91025b76631568.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='0c696f1f40b2b14acbdf785c015ca20447e4dc04432'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_03.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_03.png)
@@ -6509,11 +6509,11 @@
 * Handoff File: [0c696f1f40b2b14acbdf785c015ca20447e4dc04.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/0c696f1f40b2b14acbdf785c015ca20447e4dc04.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='8dc63e970a1d1e6e89f4cbd91b5fb7f348257544433'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_04.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_04.png)
@@ -6522,11 +6522,11 @@
 * Handoff File: [8dc63e970a1d1e6e89f4cbd91b5fb7f348257544.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/8dc63e970a1d1e6e89f4cbd91b5fb7f348257544.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='6d3ebb06241084374d26796f9a5b5adc51d1186f434'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_05.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_05.png)
@@ -6535,11 +6535,11 @@
 * Handoff File: [6d3ebb06241084374d26796f9a5b5adc51d1186f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6d3ebb06241084374d26796f9a5b5adc51d1186f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='135f29417f67c059713320c6a9da7d4e092745f6435'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_06.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_06.png)
@@ -6548,11 +6548,11 @@
 * Handoff File: [135f29417f67c059713320c6a9da7d4e092745f6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/135f29417f67c059713320c6a9da7d4e092745f6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='7b6c06b77288eef1cc9f7b399df1705b60dc522b436'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_07.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_07.png)
@@ -6561,11 +6561,11 @@
 * Handoff File: [7b6c06b77288eef1cc9f7b399df1705b60dc522b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7b6c06b77288eef1cc9f7b399df1705b60dc522b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='63e66ba95fba0f7c447c7d725984f184cca3d259437'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_08.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_08.png)
@@ -6574,11 +6574,11 @@
 * Handoff File: [63e66ba95fba0f7c447c7d725984f184cca3d259.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/63e66ba95fba0f7c447c7d725984f184cca3d259.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='fccffeee193512281a33aea65947727f216787dc438'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_09.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_09.png)
@@ -6587,11 +6587,11 @@
 * Handoff File: [fccffeee193512281a33aea65947727f216787dc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fccffeee193512281a33aea65947727f216787dc.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='cca93749af09aa9b51931c552a92a685ab0300e6439'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_10.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_10.png)
@@ -6600,11 +6600,11 @@
 * Handoff File: [cca93749af09aa9b51931c552a92a685ab0300e6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/cca93749af09aa9b51931c552a92a685ab0300e6.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='b99fb5c16c2836d7b7ad19c426ef15774bff6c0d440'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_11.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_11.png)
@@ -6613,11 +6613,11 @@
 * Handoff File: [b99fb5c16c2836d7b7ad19c426ef15774bff6c0d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/b99fb5c16c2836d7b7ad19c426ef15774bff6c0d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='381f36639b0746399353f53d7d2f189e217d9fa5441'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_12.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_12.png)
@@ -6626,11 +6626,11 @@
 * Handoff File: [381f36639b0746399353f53d7d2f189e217d9fa5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/381f36639b0746399353f53d7d2f189e217d9fa5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='78280802f4f9b33178005c309276f9602bb77610442'></a> Source: [Acom\articles\batch\media\batch-application-packages\app_pkg_13.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-application-packages/app_pkg_13.png)
@@ -6639,11 +6639,11 @@
 * Handoff File: [78280802f4f9b33178005c309276f9602bb77610.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/78280802f4f9b33178005c309276f9602bb77610.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-application-packages.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-application-packages.md
 * [Back to Top](#report-top)
 
 ##### <a name='898afdb94fb3af10fe7ac0315131b0b84bd2db16445'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow.png)
@@ -6676,11 +6676,11 @@
 * Handoff File: [0eab92cc4e2c1c1f98b092beace09af8b0b2af4e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/0eab92cc4e2c1c1f98b092beace09af8b0b2af4e.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='149a1d49162c1cc133fd6ecd2bdd8e718c44905c448'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_02.png)
@@ -6701,11 +6701,11 @@
 * Handoff File: [c2739919532ad98d20d76d68c6c4592796588f8a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/c2739919532ad98d20d76d68c6c4592796588f8a.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='c1fcb3e1a93ec59d327a0b3d71176d6b89cc2382450'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_03.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_03.png)
@@ -6726,11 +6726,11 @@
 * Handoff File: [33927e7e4f1cb1ad65d33be9ae47eb3be7be416b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/33927e7e4f1cb1ad65d33be9ae47eb3be7be416b.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='13cb6e8851b0b6d6a37ec380c0ce33265413ddd5452'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_04.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_04.png)
@@ -6751,11 +6751,11 @@
 * Handoff File: [c771968302c776bfd46134e9651930b244e048a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/c771968302c776bfd46134e9651930b244e048a3.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='e1d6d2ab7e2025e3bdd7d704d1760de785bdaac7454'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_05.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_05.png)
@@ -6776,11 +6776,11 @@
 * Handoff File: [77b00f33ec45bffe3957d916372fd8d5d965f026.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/77b00f33ec45bffe3957d916372fd8d5d965f026.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='eec25ceb7e1e4ad846f1b60a65435b4d42afffd5456'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_06.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_06.png)
@@ -6801,11 +6801,11 @@
 * Handoff File: [264d6df1484c4a97f8a5ed037945c37e02c9ea8d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/264d6df1484c4a97f8a5ed037945c37e02c9ea8d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='e66023c2943a3ed4f2a793227705e6737301d217458'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_07.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_07.png)
@@ -6826,11 +6826,11 @@
 * Handoff File: [e3afb39af90f4426ecdad2101c8a540fe626221c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/e3afb39af90f4426ecdad2101c8a540fe626221c.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='6bad35ba2067cf7de46a706d671b516bdcf48fd8460'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_minimal.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_minimal.png)
@@ -6851,11 +6851,11 @@
 * Handoff File: [6fe5d8ff06405b0953a105d51528981ab668a8c0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/6fe5d8ff06405b0953a105d51528981ab668a8c0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='774cb0a69d0477d62a84b4e8f5ad30222b6c535f462'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch_workflow_sm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-dotnet-get-started/batch_workflow_sm.png)
@@ -6864,11 +6864,11 @@
 * Handoff File: [774cb0a69d0477d62a84b4e8f5ad30222b6c535f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/774cb0a69d0477d62a84b4e8f5ad30222b6c535f.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='616d890a365d8fcea1aa6e98e769569a8a6350be443'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\batch-dotnet-get-started-01.jpg](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/batch-dotnet-get-started-01.jpg)
@@ -6913,11 +6913,11 @@
 * Handoff File: [6dc20b961d022a505dc9c27530c8febf9c4432eb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/6dc20b961d022a505dc9c27530c8febf9c4432eb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='29ce5cff4afa0f1e3750bab60227ba30738185a3465'></a> Source: [Acom\articles\batch\media\batch-dotnet-get-started\credentials_storage.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/articles/batch/media/batch-dotnet-get-started/credentials_storage.png)
@@ -6938,11 +6938,11 @@
 * Handoff File: [cdedf3649a2ce62cecae27699c09d964d4f9a358.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/cdedf3649a2ce62cecae27699c09d964d4f9a358.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-dotnet-get-started.md
 * [Back to Top](#report-top)
 
 ##### <a name='2d606ca729b1425cf05422532f5a822393e80490467'></a> Source: [Acom\articles\batch\media\batch-hpc-solutions\batch_proc.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-hpc-solutions/batch_proc.png)
@@ -6951,11 +6951,11 @@
 * Handoff File: [2d606ca729b1425cf05422532f5a822393e80490.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/2d606ca729b1425cf05422532f5a822393e80490.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * [Back to Top](#report-top)
 
 ##### <a name='0e45bf891b792721abdd7682ec80a84b74301dcd468'></a> Source: [Acom\articles\batch\media\batch-hpc-solutions\burst_cluster.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-hpc-solutions/burst_cluster.png)
@@ -6964,11 +6964,11 @@
 * Handoff File: [0e45bf891b792721abdd7682ec80a84b74301dcd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/0e45bf891b792721abdd7682ec80a84b74301dcd.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * [Back to Top](#report-top)
 
 ##### <a name='2e4d7950cf6220b867e879e51ae26ed26cf65524469'></a> Source: [Acom\articles\batch\media\batch-hpc-solutions\coupled.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-hpc-solutions/coupled.png)
@@ -6977,11 +6977,11 @@
 * Handoff File: [2e4d7950cf6220b867e879e51ae26ed26cf65524.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/2e4d7950cf6220b867e879e51ae26ed26cf65524.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * [Back to Top](#report-top)
 
 ##### <a name='2a6e3b93248eab0b50fadf44d3e29336b6a94266470'></a> Source: [Acom\articles\batch\media\batch-hpc-solutions\iaas_cluster.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-hpc-solutions/iaas_cluster.png)
@@ -6990,11 +6990,11 @@
 * Handoff File: [2a6e3b93248eab0b50fadf44d3e29336b6a94266.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/2a6e3b93248eab0b50fadf44d3e29336b6a94266.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * [Back to Top](#report-top)
 
 ##### <a name='0f1b90e6d755ea12470bf7aff901c54390cfbf83471'></a> Source: [Acom\articles\batch\media\batch-hpc-solutions\parallel.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-hpc-solutions/parallel.png)
@@ -7003,11 +7003,11 @@
 * Handoff File: [0f1b90e6d755ea12470bf7aff901c54390cfbf83.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/0f1b90e6d755ea12470bf7aff901c54390cfbf83.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-hpc-solutions.md
 * [Back to Top](#report-top)
 
 ##### <a name='30fffeaf5edc8c1ffc8c5307971156244b6dfc60472'></a> Source: [Acom\articles\batch\media\batch-job-prep-release\batchexplorer-01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-job-prep-release/batchexplorer-01.png)
@@ -7016,11 +7016,11 @@
 * Handoff File: [30fffeaf5edc8c1ffc8c5307971156244b6dfc60.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/30fffeaf5edc8c1ffc8c5307971156244b6dfc60.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-job-prep-release.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-job-prep-release.md
 * [Back to Top](#report-top)
 
 ##### <a name='05b3b7b6a3a068d3db3395ccbf38c687ce175a8d473'></a> Source: [Acom\articles\batch\media\batch-management-dotnet\portal-01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-management-dotnet/portal-01.png)
@@ -7029,11 +7029,11 @@
 * Handoff File: [05b3b7b6a3a068d3db3395ccbf38c687ce175a8d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/05b3b7b6a3a068d3db3395ccbf38c687ce175a8d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-management-dotnet.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-management-dotnet.md
 * [Back to Top](#report-top)
 
 ##### <a name='fc51c812d13e95fc01f50da137c32e21cc493cd1474'></a> Source: [Acom\articles\batch\media\batch-management-dotnet\portal-02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-management-dotnet/portal-02.png)
@@ -7042,11 +7042,11 @@
 * Handoff File: [fc51c812d13e95fc01f50da137c32e21cc493cd1.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/fc51c812d13e95fc01f50da137c32e21cc493cd1.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-management-dotnet.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-management-dotnet.md
 * [Back to Top](#report-top)
 
 ##### <a name='41eec2f6b07c4ffa30e17c112b3e71c2e298f7ee475'></a> Source: [Acom\articles\batch\media\batch-management-dotnet\portal-03.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-management-dotnet/portal-03.png)
@@ -7055,11 +7055,11 @@
 * Handoff File: [41eec2f6b07c4ffa30e17c112b3e71c2e298f7ee.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/41eec2f6b07c4ffa30e17c112b3e71c2e298f7ee.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-management-dotnet.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-management-dotnet.md
 * [Back to Top](#report-top)
 
 ##### <a name='6c9b1e7ce0a191c6e4146c17629d13aaafd8c915476'></a> Source: [Acom\articles\batch\media\batch-mpi\batch_mpi_01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-mpi/batch_mpi_01.png)
@@ -7068,11 +7068,11 @@
 * Handoff File: [6c9b1e7ce0a191c6e4146c17629d13aaafd8c915.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6c9b1e7ce0a191c6e4146c17629d13aaafd8c915.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-mpi.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-mpi.md
 * [Back to Top](#report-top)
 
 ##### <a name='3f4510ecc4baf6057af9e2abd1d4eaadf216d0c2477'></a> Source: [Acom\articles\batch\media\batch-parallel-node-tasks\heat_map.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-parallel-node-tasks/heat_map.png)
@@ -7081,11 +7081,11 @@
 * Handoff File: [3f4510ecc4baf6057af9e2abd1d4eaadf216d0c2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3f4510ecc4baf6057af9e2abd1d4eaadf216d0c2.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-parallel-node-tasks.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-parallel-node-tasks.md
 * [Back to Top](#report-top)
 
 ##### <a name='6d971123770a6b3e38693c963eef2b474e516c4d478'></a> Source: [Acom\articles\batch\media\batch-quota-limit\accountquota_portal.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-quota-limit/accountquota_portal.PNG)
@@ -7094,11 +7094,11 @@
 * Handoff File: [6d971123770a6b3e38693c963eef2b474e516c4d.PNG](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/6d971123770a6b3e38693c963eef2b474e516c4d.PNG)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-quota-limit.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-quota-limit.md
 * [Back to Top](#report-top)
 
 ##### <a name='3e159cb20fcfae24fe6cbdc2e3865b5104d43b87479'></a> Source: [Acom\articles\batch\media\batch-technical-overview\tech_overview_01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-technical-overview/tech_overview_01.png)
@@ -7107,11 +7107,11 @@
 * Handoff File: [3e159cb20fcfae24fe6cbdc2e3865b5104d43b87.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/3e159cb20fcfae24fe6cbdc2e3865b5104d43b87.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-technical-overview.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-technical-overview.md
 * [Back to Top](#report-top)
 
 ##### <a name='150e2260ed9201f7a49149ef37d4ad7205e28891480'></a> Source: [Acom\articles\batch\media\batch-technical-overview\tech_overview_02.png](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/batch/media/batch-technical-overview/tech_overview_02.png)
@@ -7120,11 +7120,11 @@
 * Handoff File: [150e2260ed9201f7a49149ef37d4ad7205e28891.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_hi/150e2260ed9201f7a49149ef37d4ad7205e28891.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\batch\batch-technical-overview.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\batch\batch-technical-overview.md
 * [Back to Top](#report-top)
 
 ##### <a name='c458b5352591df29d088dc8127ef6e943c42adfb481'></a> Source: [Acom\articles\cloud-services-python-ptvs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/4280218fe4923b445152a2edfd83e5323f9d0119/Acom/articles/cloud-services-python-ptvs.md)
@@ -9257,11 +9257,11 @@
 * Handoff File: [146d719e66cb507575325925a6a0b00a3373d819.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/146d719e66cb507575325925a6a0b00a3373d819.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-create-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-create-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='bf5789cedd12f4a2f2c5d0af5e5373089c9796ef671'></a> Source: [Acom\includes\media\backup-create-vault\createvault1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault/createvault1.png)
@@ -9270,11 +9270,11 @@
 * Handoff File: [bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205672'></a> Source: [Acom\includes\media\backup-create-vault\creatingvault1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault/creatingvault1.png)
@@ -9283,11 +9283,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='169abc8c119b335b31a3d054f20b5f823f22b2c4673'></a> Source: [Acom\includes\media\backup-create-vault\grs.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-create-vault/grs.png)
@@ -9296,11 +9296,11 @@
 * Handoff File: [169abc8c119b335b31a3d054f20b5f823f22b2c4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/169abc8c119b335b31a3d054f20b5f823f22b2c4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-create-vault-wgif.md, Acom\includes\backup-create-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-create-vault-wgif.md, Acom\includes\backup-create-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='9286ae8071955264899f74915e56e6f41db02738674'></a> Source: [Acom\includes\media\backup-create-vault\lrs.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-create-vault/lrs.png)
@@ -9309,11 +9309,11 @@
 * Handoff File: [9286ae8071955264899f74915e56e6f41db02738.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/9286ae8071955264899f74915e56e6f41db02738.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-create-vault-wgif.md, Acom\includes\backup-create-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-create-vault-wgif.md, Acom\includes\backup-create-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='bf5789cedd12f4a2f2c5d0af5e5373089c9796ef658'></a> Source: [Acom\includes\media\backup-create-vault-for-vms\backup_vaultcreate.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-for-vms/backup_vaultcreate.png)
@@ -9322,11 +9322,11 @@
 * Handoff File: [bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='48715dc04022a17520f42755b3fc28d8b50f9d85659'></a> Source: [Acom\includes\media\backup-create-vault-for-vms\backup_vaultslist.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-for-vms/backup_vaultslist.png)
@@ -9335,11 +9335,11 @@
 * Handoff File: [48715dc04022a17520f42755b3fc28d8b50f9d85.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/48715dc04022a17520f42755b3fc28d8b50f9d85.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205660'></a> Source: [Acom\includes\media\backup-create-vault-for-vms\creating-vault.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-for-vms/creating-vault.png)
@@ -9348,11 +9348,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='687536854c898e5b1a38d369c7bb23b6d9d301f0661'></a> Source: [Acom\includes\media\backup-create-vault-for-vms\Ibiza-portal-backup01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-for-vms/Ibiza-portal-backup01.png)
@@ -9361,11 +9361,11 @@
 * Handoff File: [687536854c898e5b1a38d369c7bb23b6d9d301f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/687536854c898e5b1a38d369c7bb23b6d9d301f0.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754662'></a> Source: [Acom\includes\media\backup-create-vault-for-vms\vault-policy-vm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-for-vms/vault-policy-vm.png)
@@ -9374,11 +9374,11 @@
 * Handoff File: [d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d52b8b3f97ca7d9383f9e7d6f9e6aa48558b5754.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-first-look.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4663'></a> Source: [Acom\includes\media\backup-create-vault-for-vms\vmbackup-instructions.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-for-vms/vmbackup-instructions.png)
@@ -9387,11 +9387,11 @@
 * Handoff File: [bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bbee3dd6927dcaca9b6c5f071e823ab252ad2ec4.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='146d719e66cb507575325925a6a0b00a3373d819664'></a> Source: [Acom\includes\media\backup-create-vault-wgif\backupvaultstatus1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-wgif/backupvaultstatus1.png)
@@ -9400,11 +9400,11 @@
 * Handoff File: [146d719e66cb507575325925a6a0b00a3373d819.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/146d719e66cb507575325925a6a0b00a3373d819.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-create-vault.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-create-vault.md
 * [Back to Top](#report-top)
 
 ##### <a name='bf5789cedd12f4a2f2c5d0af5e5373089c9796ef666'></a> Source: [Acom\includes\media\backup-create-vault-wgif\createvault1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-wgif/createvault1.png)
@@ -9413,11 +9413,11 @@
 * Handoff File: [bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/bf5789cedd12f4a2f2c5d0af5e5373089c9796ef.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='87fc010f1e0d467bdbfd7b2097f898c868c8530d665'></a> Source: [Acom\includes\media\backup-create-vault-wgif\create-vault-wgif.gif](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-create-vault-wgif/create-vault-wgif.gif)
@@ -9426,11 +9426,11 @@
 * Handoff File: [87fc010f1e0d467bdbfd7b2097f898c868c8530d.gif](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/87fc010f1e0d467bdbfd7b2097f898c868c8530d.gif)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-create-vault-wgif.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-create-vault-wgif.md
 * [Back to Top](#report-top)
 
 ##### <a name='3fb15b2437c7e6083ee36f94b05d9ae2488a1205667'></a> Source: [Acom\includes\media\backup-create-vault-wgif\creatingvault1.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-wgif/creatingvault1.png)
@@ -9439,11 +9439,11 @@
 * Handoff File: [3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/3fb15b2437c7e6083ee36f94b05d9ae2488a1205.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md, Acom\articles\backup\backup-azure-vms-prepare.md, Acom\includes\backup-create-vault.md, Acom\includes\backup-create-vault-for-vms.md
 * [Back to Top](#report-top)
 
 ##### <a name='55fff605be422c34ee15c4c3755ccb555d6c2192668'></a> Source: [Acom\includes\media\backup-create-vault-wgif\grs.png](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/Acom/includes/media/backup-create-vault-wgif/grs.png)
@@ -9476,11 +9476,11 @@
 * Handoff File: [c7833628ed97f79cf7e42ef372f107a7b04f9a1d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c7833628ed97f79cf7e42ef372f107a7b04f9a1d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-download-credentials.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-download-credentials.md
 * [Back to Top](#report-top)
 
 ##### <a name='c60fd23b51f5a5b87a6ac8e501db465bc8f65e66676'></a> Source: [Acom\includes\media\backup-download-credentials\quickview.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-download-credentials/quickview.png)
@@ -9489,11 +9489,11 @@
 * Handoff File: [c60fd23b51f5a5b87a6ac8e501db465bc8f65e66.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/c60fd23b51f5a5b87a6ac8e501db465bc8f65e66.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-download-credentials.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-download-credentials.md
 * [Back to Top](#report-top)
 
 ##### <a name='9e48efe97bfbf75cd53a823aa66a9379fd42e830677'></a> Source: [Acom\includes\media\backup-install-agent\agent.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-install-agent/agent.png)
@@ -9502,11 +9502,11 @@
 * Handoff File: [9e48efe97bfbf75cd53a823aa66a9379fd42e830.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/9e48efe97bfbf75cd53a823aa66a9379fd42e830.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-install-agent.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-install-agent.md
 * [Back to Top](#report-top)
 
 ##### <a name='2160848bfc26537c5d7e5229d238076aa5432db5678'></a> Source: [Acom\includes\media\backup-install-agent\change.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-install-agent/change.png)
@@ -9515,11 +9515,11 @@
 * Handoff File: [2160848bfc26537c5d7e5229d238076aa5432db5.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/2160848bfc26537c5d7e5229d238076aa5432db5.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-install-agent.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-install-agent.md
 * [Back to Top](#report-top)
 
 ##### <a name='12f5d2c73741022661632b6c701afc1e304e83e9679'></a> Source: [Acom\includes\media\backup-install-agent\configure.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-install-agent/configure.png)
@@ -9528,11 +9528,11 @@
 * Handoff File: [12f5d2c73741022661632b6c701afc1e304e83e9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/12f5d2c73741022661632b6c701afc1e304e83e9.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-install-agent.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-install-agent.md
 * [Back to Top](#report-top)
 
 ##### <a name='12f827cb6b9ff163e669f4a988d65f247b173883680'></a> Source: [Acom\includes\media\backup-install-agent\encryption.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-install-agent/encryption.png)
@@ -9541,11 +9541,11 @@
 * Handoff File: [12f827cb6b9ff163e669f4a988d65f247b173883.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/12f827cb6b9ff163e669f4a988d65f247b173883.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-install-agent.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-install-agent.md
 * [Back to Top](#report-top)
 
 ##### <a name='d5b326759ad70f8db7ba793e93e3461e813bf1bb681'></a> Source: [Acom\includes\media\backup-install-agent\quickstart.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-install-agent/quickstart.png)
@@ -9554,11 +9554,11 @@
 * Handoff File: [d5b326759ad70f8db7ba793e93e3461e813bf1bb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d5b326759ad70f8db7ba793e93e3461e813bf1bb.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-install-agent.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-install-agent.md
 * [Back to Top](#report-top)
 
 ##### <a name='7d3fb1f5f108c38baa4a1a50a4a0e2333b912184682'></a> Source: [Acom\includes\media\backup-install-agent\register.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-install-agent/register.png)
@@ -9567,11 +9567,11 @@
 * Handoff File: [7d3fb1f5f108c38baa4a1a50a4a0e2333b912184.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/7d3fb1f5f108c38baa4a1a50a4a0e2333b912184.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-install-agent.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-install-agent.md
 * [Back to Top](#report-top)
 
 ##### <a name='d347565919a93f869f400c8b59843249dd1f234d683'></a> Source: [Acom\includes\media\backup-install-agent\vc.png](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/media/backup-install-agent/vc.png)
@@ -9580,11 +9580,11 @@
 * Handoff File: [d347565919a93f869f400c8b59843249dd1f234d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/074fb4aa16960c50dabb9953cc1d0899fb428f47/ol-handoff/OpenLocalizationOrg/hyperV.tr-tr/master/acomdc_nonhi/d347565919a93f869f400c8b59843249dd1f234d.png)
 * Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: IsDependency
+* Dependency From: Acom\includes\backup-install-agent.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: Acom\includes\backup-install-agent.md
 * [Back to Top](#report-top)
 
 ##### <a name='1c75f714b30e6a61579231eb84beb9c7df76552a684'></a> Source: [localization.json](https://github.com/OpenLocalizationOrg/hyperV/blob/68eab6ffe49072a45431e26e3120b3bc8c21a172/localization.json)
