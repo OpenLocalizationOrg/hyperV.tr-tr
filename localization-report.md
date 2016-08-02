@@ -1030,7 +1030,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: Ignored
 * Handoff Error: [handoff_transform_failed](#ee150b2b30cdfd43884520fcc97e2547a02982a03handoff_transform_failed)
 * Archive File: 
@@ -1043,7 +1043,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: Ignored
 * Handoff Error: [handoff_transform_failed](#1de17e02db5f704204f70ab814efdd8eb443d7f44handoff_transform_failed)
 * Archive File: 
@@ -1056,7 +1056,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Datetime: 2016-05-04 02:19:01
 * Handoff Reason: Ignored
 * Handoff Error: [handoff_transform_failed](#98e625f1fb0ad2965ca2ca42ae2fdb374cae121f5handoff_transform_failed)
 * Archive File: 
